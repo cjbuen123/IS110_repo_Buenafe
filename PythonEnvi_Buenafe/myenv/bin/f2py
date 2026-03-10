@@ -1,0 +1,6 @@
+#!/content/drive/MyDrive/ColabNotebooks/IS110_BPerformance_Buenafe/IS110_repo_Buenafe/PythonEnvi_Buenafe/myenv/bin/python
+import sys
+from numpy.f2py.f2py2e import main
+if __name__ == '__main__':
+    sys.argv[0] = sys.argv[0].removesuffix('.exe')
+    sys.exit(main())
