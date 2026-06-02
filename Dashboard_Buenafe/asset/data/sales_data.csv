@@ -1,0 +1,1001 @@
+order_id,order_date,customer_name,region,category,product_name,quantity,unit_price,total_amount,payment_method
+ORD-1001,2024-05-05,Customer_029,Luzon,Electronics,Laptop Pro 15,3,65000,195000,Credit Card
+ORD-1002,2024-08-04,Customer_005,NCR,Sports,Yoga Mat,5,1500,7500,Credit Card
+ORD-1003,2024-11-04,Customer_004,Luzon,Clothing,Denim Jeans,5,1800,9000,Bank Transfer
+ORD-1004,2024-05-22,Customer_001,Luzon,Clothing,Cap,5,400,2000,Bank Transfer
+ORD-1005,2024-04-20,Customer_044,NCR,Food & Bev,Protein Bar Box,2,950,1900,Credit Card
+ORD-1006,2024-06-25,Customer_078,Visayas,Home & Living,Desk Lamp,3,1200,3600,Credit Card
+ORD-1007,2024-07-12,Customer_011,Visayas,Home & Living,Wall Clock,1,800,800,Cash on Delivery
+ORD-1008,2024-01-24,Customer_030,Visayas,Sports,Yoga Mat,1,1500,1500,Credit Card
+ORD-1009,2024-05-22,Customer_059,Visayas,Clothing,Polo Shirt,4,650,2600,GCash
+ORD-1010,2024-12-09,Customer_035,NCR,Food & Bev,Protein Bar Box,2,950,1900,GCash
+ORD-1011,2024-03-24,Customer_060,Mindanao,Sports,Jump Rope,2,350,700,Cash on Delivery
+ORD-1012,2024-01-29,Customer_030,NCR,Sports,Yoga Mat,3,1500,4500,Cash on Delivery
+ORD-1013,2024-04-18,Customer_073,Visayas,Home & Living,Storage Box,1,550,550,GCash
+ORD-1014,2024-03-14,Customer_034,Luzon,Home & Living,Storage Box,4,550,2200,GCash
+ORD-1015,2024-10-26,Customer_055,Mindanao,Sports,Jump Rope,3,350,1050,Cash on Delivery
+ORD-1016,2024-09-09,Customer_012,NCR,Clothing,Denim Jeans,5,1800,9000,Credit Card
+ORD-1017,2024-11-01,Customer_009,Mindanao,Clothing,Denim Jeans,4,1800,7200,Bank Transfer
+ORD-1018,2024-05-08,Customer_071,NCR,Sports,Resistance Bands,5,600,3000,Credit Card
+ORD-1019,2024-02-27,Customer_038,Mindanao,Sports,Resistance Bands,3,600,1800,GCash
+ORD-1020,2024-09-13,Customer_023,NCR,Home & Living,Desk Lamp,3,1200,3600,Cash on Delivery
+ORD-1021,2024-03-19,Customer_048,Luzon,Sports,Jump Rope,2,350,700,Credit Card
+ORD-1022,2024-01-10,Customer_015,Visayas,Sports,Resistance Bands,4,600,2400,Cash on Delivery
+ORD-1023,2024-10-17,Customer_011,NCR,Clothing,Polo Shirt,2,650,1300,Bank Transfer
+ORD-1024,2024-12-03,Customer_061,Luzon,Electronics,Wireless Mouse,2,850,1700,Cash on Delivery
+ORD-1025,2024-04-18,Customer_070,Luzon,Sports,Jump Rope,4,350,1400,Cash on Delivery
+ORD-1026,2024-08-12,Customer_067,Mindanao,Home & Living,Wall Clock,3,800,2400,Credit Card
+ORD-1027,2024-06-22,Customer_003,Luzon,Clothing,Denim Jeans,1,1800,1800,GCash
+ORD-1028,2024-04-27,Customer_009,NCR,Electronics,Laptop Pro 15,1,65000,65000,Cash on Delivery
+ORD-1029,2024-12-08,Customer_063,Luzon,Electronics,Wireless Mouse,3,850,2550,GCash
+ORD-1030,2024-05-04,Customer_061,Mindanao,Sports,Jump Rope,4,350,1400,GCash
+ORD-1031,2024-06-30,Customer_055,Mindanao,Electronics,Laptop Pro 15,4,65000,260000,Bank Transfer
+ORD-1032,2024-07-25,Customer_044,NCR,Electronics,Laptop Pro 15,1,65000,65000,GCash
+ORD-1033,2024-08-17,Customer_018,Mindanao,Clothing,Denim Jeans,5,1800,9000,GCash
+ORD-1034,2024-02-08,Customer_057,NCR,Food & Bev,Protein Bar Box,2,950,1900,Credit Card
+ORD-1035,2024-05-01,Customer_022,Mindanao,Sports,Yoga Mat,1,1500,1500,Bank Transfer
+ORD-1036,2024-01-31,Customer_022,Mindanao,Home & Living,Desk Lamp,4,1200,4800,Credit Card
+ORD-1037,2024-05-26,Customer_055,Mindanao,Home & Living,Storage Box,4,550,2200,GCash
+ORD-1038,2024-01-30,Customer_075,NCR,Clothing,Running Shoes,2,3500,7000,Cash on Delivery
+ORD-1039,2024-09-01,Customer_065,Luzon,Electronics,Laptop Pro 15,5,65000,325000,Credit Card
+ORD-1040,2024-02-05,Customer_077,NCR,Sports,Yoga Mat,2,1500,3000,GCash
+ORD-1041,2024-05-06,Customer_075,NCR,Home & Living,Desk Lamp,5,1200,6000,Credit Card
+ORD-1042,2024-10-16,Customer_067,Visayas,Home & Living,Wall Clock,5,800,4000,Cash on Delivery
+ORD-1043,2024-05-15,Customer_051,Luzon,Clothing,Running Shoes,2,3500,7000,Cash on Delivery
+ORD-1044,2024-01-05,Customer_059,NCR,Home & Living,Storage Box,1,550,550,Credit Card
+ORD-1045,2024-05-15,Customer_017,Visayas,Sports,Yoga Mat,5,1500,7500,Credit Card
+ORD-1046,2024-03-21,Customer_057,Visayas,Clothing,Running Shoes,3,3500,10500,Credit Card
+ORD-1047,2024-03-09,Customer_034,NCR,Sports,Resistance Bands,1,600,600,Credit Card
+ORD-1048,2024-05-24,Customer_078,Luzon,Sports,Yoga Mat,3,1500,4500,Cash on Delivery
+ORD-1049,2024-09-07,Customer_033,NCR,Clothing,Running Shoes,5,3500,17500,Credit Card
+ORD-1050,2024-01-02,Customer_043,Luzon,Home & Living,Storage Box,1,550,550,Cash on Delivery
+ORD-1051,2024-12-27,Customer_055,NCR,Clothing,Cap,5,400,2000,Credit Card
+ORD-1052,2024-01-19,Customer_048,Luzon,Electronics,Wireless Mouse,5,850,4250,Bank Transfer
+ORD-1053,2024-07-05,Customer_006,Visayas,Clothing,Polo Shirt,3,650,1950,GCash
+ORD-1054,2024-10-13,Customer_053,Luzon,Clothing,Polo Shirt,3,650,1950,GCash
+ORD-1055,2024-01-13,Customer_023,Visayas,Clothing,Denim Jeans,4,1800,7200,Bank Transfer
+ORD-1056,2024-12-25,Customer_014,Mindanao,Clothing,Running Shoes,2,3500,7000,Credit Card
+ORD-1057,2024-08-23,Customer_045,Visayas,Home & Living,Desk Lamp,2,1200,2400,GCash
+ORD-1058,2024-07-23,Customer_043,Visayas,Clothing,Polo Shirt,2,650,1300,Credit Card
+ORD-1059,2024-07-23,Customer_069,Visayas,Food & Bev,Protein Bar Box,5,950,4750,Credit Card
+ORD-1060,2024-10-24,Customer_034,NCR,Electronics,USB Hub,2,1200,2400,Credit Card
+ORD-1061,2024-06-09,Customer_056,NCR,Sports,Resistance Bands,3,600,1800,Bank Transfer
+ORD-1062,2024-01-23,Customer_056,NCR,Sports,Yoga Mat,3,1500,4500,GCash
+ORD-1063,2024-12-06,Customer_043,Visayas,Food & Bev,Protein Bar Box,1,950,950,Credit Card
+ORD-1064,2024-12-07,Customer_053,Visayas,Food & Bev,Energy Drink,3,75,225,Bank Transfer
+ORD-1065,2024-04-08,Customer_054,Mindanao,Food & Bev,Energy Drink,2,75,150,GCash
+ORD-1066,2024-07-26,Customer_071,NCR,Sports,Jump Rope,3,350,1050,Cash on Delivery
+ORD-1067,2024-10-23,Customer_078,Visayas,Food & Bev,Coffee Blend 500g,4,380,1520,Bank Transfer
+ORD-1068,2024-09-18,Customer_061,Luzon,Home & Living,Storage Box,2,550,1100,Credit Card
+ORD-1069,2024-06-20,Customer_012,Luzon,Food & Bev,Energy Drink,5,75,375,Cash on Delivery
+ORD-1070,2024-01-13,Customer_006,Luzon,Clothing,Denim Jeans,2,1800,3600,Bank Transfer
+ORD-1071,2024-07-31,Customer_074,Luzon,Sports,Yoga Mat,4,1500,6000,Bank Transfer
+ORD-1072,2024-03-16,Customer_001,NCR,Home & Living,Storage Box,2,550,1100,Bank Transfer
+ORD-1073,2024-08-25,Customer_007,Luzon,Clothing,Denim Jeans,5,1800,9000,Credit Card
+ORD-1074,2024-12-07,Customer_068,Visayas,Home & Living,Desk Lamp,4,1200,4800,Bank Transfer
+ORD-1075,2024-08-06,Customer_071,Mindanao,Sports,Jump Rope,5,350,1750,GCash
+ORD-1076,2024-05-06,Customer_036,Mindanao,Home & Living,Storage Box,3,550,1650,GCash
+ORD-1077,2024-05-26,Customer_031,Visayas,Food & Bev,Protein Bar Box,1,950,950,Cash on Delivery
+ORD-1078,2024-03-11,Customer_020,Luzon,Food & Bev,Energy Drink,1,75,75,Bank Transfer
+ORD-1079,2024-07-31,Customer_053,Visayas,Clothing,Denim Jeans,1,1800,1800,Bank Transfer
+ORD-1080,2024-08-03,Customer_050,NCR,Home & Living,Desk Lamp,2,1200,2400,Bank Transfer
+ORD-1081,2024-06-01,Customer_050,Mindanao,Home & Living,Desk Lamp,3,1200,3600,GCash
+ORD-1082,2024-08-11,Customer_063,NCR,Home & Living,Desk Lamp,3,1200,3600,Bank Transfer
+ORD-1083,2024-03-25,Customer_060,Luzon,Food & Bev,Energy Drink,4,75,300,Credit Card
+ORD-1084,2024-12-05,Customer_004,NCR,Home & Living,Wall Clock,5,800,4000,Bank Transfer
+ORD-1085,2024-01-26,Customer_034,Mindanao,Clothing,Cap,2,400,800,Cash on Delivery
+ORD-1086,2024-06-21,Customer_049,Visayas,Clothing,Cap,3,400,1200,Bank Transfer
+ORD-1087,2024-01-10,Customer_070,NCR,Food & Bev,Coffee Blend 500g,4,380,1520,Cash on Delivery
+ORD-1088,2024-01-16,Customer_032,Luzon,Clothing,Polo Shirt,1,650,650,Credit Card
+ORD-1089,2024-03-05,Customer_061,NCR,Sports,Yoga Mat,2,1500,3000,GCash
+ORD-1090,2024-07-07,Customer_022,NCR,Home & Living,Wall Clock,3,800,2400,GCash
+ORD-1091,2024-01-14,Customer_040,Mindanao,Food & Bev,Coffee Blend 500g,5,380,1900,Bank Transfer
+ORD-1092,2024-12-19,Customer_032,NCR,Clothing,Polo Shirt,5,650,3250,Cash on Delivery
+ORD-1093,2024-01-22,Customer_045,Mindanao,Sports,Yoga Mat,5,1500,7500,Cash on Delivery
+ORD-1094,2024-08-03,Customer_063,NCR,Electronics,USB Hub,1,1200,1200,Bank Transfer
+ORD-1095,2024-12-28,Customer_020,Mindanao,Food & Bev,Energy Drink,4,75,300,GCash
+ORD-1096,2024-11-11,Customer_069,Mindanao,Sports,Jump Rope,3,350,1050,Bank Transfer
+ORD-1097,2024-05-17,Customer_042,Luzon,Home & Living,Wall Clock,5,800,4000,Credit Card
+ORD-1098,2024-08-25,Customer_073,Mindanao,Food & Bev,Protein Bar Box,2,950,1900,Cash on Delivery
+ORD-1099,2024-04-03,Customer_063,Luzon,Electronics,"Monitor 27""",3,18000,54000,Cash on Delivery
+ORD-1100,2024-11-01,Customer_036,NCR,Food & Bev,Protein Bar Box,3,950,2850,GCash
+ORD-1101,2024-09-07,Customer_072,Luzon,Electronics,Wireless Mouse,4,850,3400,Bank Transfer
+ORD-1102,2024-02-17,Customer_038,Luzon,Home & Living,Storage Box,1,550,550,Bank Transfer
+ORD-1103,2024-07-07,Customer_061,Visayas,Clothing,Running Shoes,5,3500,17500,Bank Transfer
+ORD-1104,2024-12-25,Customer_059,Visayas,Sports,Resistance Bands,3,600,1800,Cash on Delivery
+ORD-1105,2024-04-08,Customer_041,NCR,Food & Bev,Coffee Blend 500g,1,380,380,GCash
+ORD-1106,2024-05-21,Customer_076,Visayas,Clothing,Denim Jeans,4,1800,7200,Credit Card
+ORD-1107,2024-07-03,Customer_023,Visayas,Clothing,Running Shoes,2,3500,7000,Credit Card
+ORD-1108,2024-01-24,Customer_007,Visayas,Sports,Yoga Mat,3,1500,4500,GCash
+ORD-1109,2024-10-20,Customer_037,Mindanao,Home & Living,Desk Lamp,1,1200,1200,Bank Transfer
+ORD-1110,2024-01-27,Customer_033,Mindanao,Home & Living,Storage Box,2,550,1100,Credit Card
+ORD-1111,2024-02-07,Customer_074,NCR,Electronics,"Monitor 27""",4,18000,72000,GCash
+ORD-1112,2024-05-07,Customer_016,Mindanao,Clothing,Running Shoes,1,3500,3500,GCash
+ORD-1113,2024-08-14,Customer_039,Mindanao,Sports,Resistance Bands,4,600,2400,Cash on Delivery
+ORD-1114,2024-11-08,Customer_013,Luzon,Sports,Jump Rope,1,350,350,GCash
+ORD-1115,2024-03-21,Customer_031,Luzon,Food & Bev,Energy Drink,1,75,75,Credit Card
+ORD-1116,2024-08-18,Customer_077,Mindanao,Clothing,Polo Shirt,4,650,2600,Cash on Delivery
+ORD-1117,2024-12-27,Customer_037,Mindanao,Electronics,Wireless Mouse,3,850,2550,Credit Card
+ORD-1118,2024-12-04,Customer_026,Mindanao,Clothing,Running Shoes,5,3500,17500,Credit Card
+ORD-1119,2024-05-16,Customer_019,NCR,Sports,Yoga Mat,2,1500,3000,Credit Card
+ORD-1120,2024-10-18,Customer_037,Mindanao,Clothing,Running Shoes,5,3500,17500,Credit Card
+ORD-1121,2024-12-24,Customer_052,Visayas,Home & Living,Wall Clock,3,800,2400,Bank Transfer
+ORD-1122,2024-01-21,Customer_056,Visayas,Home & Living,Desk Lamp,5,1200,6000,Cash on Delivery
+ORD-1123,2024-12-11,Customer_074,NCR,Electronics,Laptop Pro 15,2,65000,130000,Cash on Delivery
+ORD-1124,2024-08-28,Customer_067,Mindanao,Sports,Yoga Mat,2,1500,3000,Cash on Delivery
+ORD-1125,2024-02-16,Customer_061,Visayas,Clothing,Cap,4,400,1600,Bank Transfer
+ORD-1126,2024-03-23,Customer_043,Mindanao,Food & Bev,Protein Bar Box,1,950,950,Bank Transfer
+ORD-1127,2024-10-08,Customer_005,Mindanao,Food & Bev,Energy Drink,4,75,300,Credit Card
+ORD-1128,2024-02-29,Customer_052,NCR,Food & Bev,Protein Bar Box,3,950,2850,Bank Transfer
+ORD-1129,2024-09-22,Customer_047,Mindanao,Home & Living,Desk Lamp,2,1200,2400,Bank Transfer
+ORD-1130,2024-10-08,Customer_017,Visayas,Electronics,Wireless Mouse,3,850,2550,Bank Transfer
+ORD-1131,2024-11-18,Customer_078,Luzon,Home & Living,Desk Lamp,1,1200,1200,GCash
+ORD-1132,2024-10-09,Customer_053,NCR,Food & Bev,Energy Drink,1,75,75,GCash
+ORD-1133,2024-11-27,Customer_020,Mindanao,Electronics,"Monitor 27""",1,18000,18000,Cash on Delivery
+ORD-1134,2024-07-31,Customer_062,Mindanao,Sports,Jump Rope,3,350,1050,GCash
+ORD-1135,2024-07-15,Customer_025,Luzon,Home & Living,Wall Clock,2,800,1600,Credit Card
+ORD-1136,2024-09-16,Customer_035,NCR,Food & Bev,Protein Bar Box,3,950,2850,Cash on Delivery
+ORD-1137,2024-12-03,Customer_063,Luzon,Food & Bev,Energy Drink,5,75,375,Bank Transfer
+ORD-1138,2024-06-19,Customer_071,Mindanao,Sports,Resistance Bands,3,600,1800,Bank Transfer
+ORD-1139,2024-10-19,Customer_050,Luzon,Food & Bev,Coffee Blend 500g,2,380,760,Bank Transfer
+ORD-1140,2024-12-27,Customer_049,Mindanao,Electronics,USB Hub,4,1200,4800,GCash
+ORD-1141,2024-09-14,Customer_076,Visayas,Home & Living,Desk Lamp,2,1200,2400,Credit Card
+ORD-1142,2024-08-21,Customer_002,Luzon,Home & Living,Desk Lamp,5,1200,6000,Bank Transfer
+ORD-1143,2024-05-15,Customer_044,Mindanao,Clothing,Polo Shirt,4,650,2600,Credit Card
+ORD-1144,2024-07-13,Customer_041,Mindanao,Food & Bev,Energy Drink,5,75,375,Credit Card
+ORD-1145,2024-11-19,Customer_037,Luzon,Sports,Yoga Mat,2,1500,3000,Credit Card
+ORD-1146,2024-08-15,Customer_022,Visayas,Home & Living,Desk Lamp,1,1200,1200,Credit Card
+ORD-1147,2024-05-30,Customer_046,Visayas,Electronics,USB Hub,1,1200,1200,Bank Transfer
+ORD-1148,2024-07-29,Customer_073,Luzon,Clothing,Denim Jeans,5,1800,9000,GCash
+ORD-1149,2024-07-14,Customer_080,Luzon,Clothing,Polo Shirt,5,650,3250,Bank Transfer
+ORD-1150,2024-08-24,Customer_033,Mindanao,Sports,Yoga Mat,2,1500,3000,Cash on Delivery
+ORD-1151,2024-12-12,Customer_070,Luzon,Electronics,"Monitor 27""",3,18000,54000,Credit Card
+ORD-1152,2024-06-02,Customer_055,Visayas,Home & Living,Storage Box,5,550,2750,Bank Transfer
+ORD-1153,2024-09-04,Customer_014,Luzon,Food & Bev,Coffee Blend 500g,4,380,1520,Bank Transfer
+ORD-1154,2024-05-31,Customer_038,NCR,Sports,Resistance Bands,5,600,3000,Bank Transfer
+ORD-1155,2024-12-17,Customer_007,Mindanao,Food & Bev,Coffee Blend 500g,5,380,1900,Cash on Delivery
+ORD-1156,2024-11-21,Customer_025,Visayas,Clothing,Running Shoes,2,3500,7000,GCash
+ORD-1157,2024-08-13,Customer_005,Visayas,Electronics,Laptop Pro 15,3,65000,195000,GCash
+ORD-1158,2024-07-31,Customer_023,Luzon,Electronics,USB Hub,3,1200,3600,GCash
+ORD-1159,2024-09-13,Customer_035,Luzon,Sports,Resistance Bands,5,600,3000,Cash on Delivery
+ORD-1160,2024-02-28,Customer_060,NCR,Home & Living,Storage Box,3,550,1650,GCash
+ORD-1161,2024-07-06,Customer_012,Mindanao,Clothing,Cap,5,400,2000,Credit Card
+ORD-1162,2024-08-20,Customer_048,Visayas,Food & Bev,Energy Drink,1,75,75,Bank Transfer
+ORD-1163,2024-08-29,Customer_004,Visayas,Food & Bev,Coffee Blend 500g,2,380,760,GCash
+ORD-1164,2024-11-28,Customer_053,NCR,Electronics,"Monitor 27""",3,18000,54000,GCash
+ORD-1165,2024-09-09,Customer_015,NCR,Electronics,Laptop Pro 15,3,65000,195000,GCash
+ORD-1166,2024-08-20,Customer_048,Mindanao,Sports,Yoga Mat,4,1500,6000,GCash
+ORD-1167,2024-09-07,Customer_079,Mindanao,Home & Living,Wall Clock,1,800,800,Cash on Delivery
+ORD-1168,2024-08-15,Customer_057,Luzon,Electronics,USB Hub,2,1200,2400,Cash on Delivery
+ORD-1169,2024-11-26,Customer_046,NCR,Electronics,USB Hub,5,1200,6000,Bank Transfer
+ORD-1170,2024-08-20,Customer_012,Luzon,Food & Bev,Coffee Blend 500g,1,380,380,Credit Card
+ORD-1171,2024-03-05,Customer_073,Luzon,Electronics,USB Hub,2,1200,2400,Credit Card
+ORD-1172,2024-04-20,Customer_030,Visayas,Sports,Yoga Mat,5,1500,7500,GCash
+ORD-1173,2024-03-15,Customer_017,Visayas,Sports,Yoga Mat,3,1500,4500,GCash
+ORD-1174,2024-01-08,Customer_046,Luzon,Electronics,Laptop Pro 15,2,65000,130000,Cash on Delivery
+ORD-1175,2024-01-27,Customer_017,Mindanao,Electronics,Wireless Mouse,3,850,2550,Credit Card
+ORD-1176,2024-07-04,Customer_066,NCR,Electronics,"Monitor 27""",4,18000,72000,Bank Transfer
+ORD-1177,2024-01-23,Customer_067,Visayas,Sports,Yoga Mat,5,1500,7500,Bank Transfer
+ORD-1178,2024-07-24,Customer_055,NCR,Electronics,Laptop Pro 15,4,65000,260000,Bank Transfer
+ORD-1179,2024-06-13,Customer_078,Luzon,Home & Living,Desk Lamp,1,1200,1200,Credit Card
+ORD-1180,2024-11-20,Customer_075,Visayas,Clothing,Running Shoes,5,3500,17500,Bank Transfer
+ORD-1181,2024-08-20,Customer_065,Mindanao,Sports,Jump Rope,3,350,1050,Credit Card
+ORD-1182,2024-08-19,Customer_030,Mindanao,Electronics,Wireless Mouse,4,850,3400,Cash on Delivery
+ORD-1183,2024-02-18,Customer_041,Mindanao,Home & Living,Storage Box,4,550,2200,Cash on Delivery
+ORD-1184,2024-12-17,Customer_061,NCR,Food & Bev,Protein Bar Box,2,950,1900,Credit Card
+ORD-1185,2024-02-19,Customer_048,Luzon,Electronics,Laptop Pro 15,4,65000,260000,Credit Card
+ORD-1186,2024-06-17,Customer_016,Mindanao,Sports,Jump Rope,5,350,1750,Cash on Delivery
+ORD-1187,2024-05-27,Customer_077,Visayas,Home & Living,Wall Clock,1,800,800,Cash on Delivery
+ORD-1188,2024-12-02,Customer_062,Luzon,Electronics,Wireless Mouse,2,850,1700,Credit Card
+ORD-1189,2024-02-28,Customer_036,Luzon,Food & Bev,Energy Drink,3,75,225,Bank Transfer
+ORD-1190,2024-12-11,Customer_072,NCR,Sports,Jump Rope,5,350,1750,Cash on Delivery
+ORD-1191,2024-12-25,Customer_040,Visayas,Electronics,Wireless Mouse,3,850,2550,Cash on Delivery
+ORD-1192,2024-10-16,Customer_052,NCR,Electronics,Wireless Mouse,2,850,1700,GCash
+ORD-1193,2024-04-20,Customer_049,Mindanao,Electronics,Laptop Pro 15,5,65000,325000,Bank Transfer
+ORD-1194,2024-06-08,Customer_042,NCR,Food & Bev,Coffee Blend 500g,3,380,1140,Credit Card
+ORD-1195,2024-01-26,Customer_011,Visayas,Clothing,Denim Jeans,5,1800,9000,Bank Transfer
+ORD-1196,2024-08-14,Customer_054,Visayas,Home & Living,Storage Box,5,550,2750,GCash
+ORD-1197,2024-08-08,Customer_015,Visayas,Sports,Yoga Mat,3,1500,4500,Bank Transfer
+ORD-1198,2024-01-24,Customer_029,Mindanao,Sports,Jump Rope,3,350,1050,Credit Card
+ORD-1199,2024-04-18,Customer_018,Visayas,Electronics,Wireless Mouse,3,850,2550,Cash on Delivery
+ORD-1200,2024-09-11,Customer_056,Luzon,Food & Bev,Coffee Blend 500g,1,380,380,GCash
+ORD-1201,2024-09-13,Customer_072,Visayas,Home & Living,Wall Clock,2,800,1600,Credit Card
+ORD-1202,2024-08-11,Customer_003,Mindanao,Home & Living,Wall Clock,1,800,800,Credit Card
+ORD-1203,2024-10-20,Customer_052,Mindanao,Food & Bev,Energy Drink,4,75,300,Cash on Delivery
+ORD-1204,2024-06-15,Customer_022,Mindanao,Electronics,"Monitor 27""",1,18000,18000,Cash on Delivery
+ORD-1205,2024-05-04,Customer_056,Mindanao,Electronics,"Monitor 27""",1,18000,18000,Credit Card
+ORD-1206,2024-04-23,Customer_043,Luzon,Home & Living,Storage Box,3,550,1650,Credit Card
+ORD-1207,2024-09-28,Customer_066,Luzon,Sports,Jump Rope,1,350,350,Cash on Delivery
+ORD-1208,2024-04-30,Customer_014,Luzon,Food & Bev,Energy Drink,2,75,150,Cash on Delivery
+ORD-1209,2024-03-19,Customer_010,Luzon,Clothing,Denim Jeans,5,1800,9000,Bank Transfer
+ORD-1210,2024-08-17,Customer_073,Visayas,Home & Living,Wall Clock,5,800,4000,Cash on Delivery
+ORD-1211,2024-08-28,Customer_057,Visayas,Clothing,Cap,1,400,400,Cash on Delivery
+ORD-1212,2024-09-16,Customer_010,Visayas,Sports,Yoga Mat,3,1500,4500,Bank Transfer
+ORD-1213,2024-07-07,Customer_037,NCR,Home & Living,Desk Lamp,1,1200,1200,Credit Card
+ORD-1214,2024-07-15,Customer_060,NCR,Sports,Jump Rope,5,350,1750,Bank Transfer
+ORD-1215,2024-06-13,Customer_078,Mindanao,Sports,Jump Rope,2,350,700,GCash
+ORD-1216,2024-06-24,Customer_011,Luzon,Electronics,"Monitor 27""",1,18000,18000,Credit Card
+ORD-1217,2024-09-25,Customer_067,Luzon,Clothing,Cap,4,400,1600,Cash on Delivery
+ORD-1218,2024-07-28,Customer_044,NCR,Food & Bev,Protein Bar Box,4,950,3800,Cash on Delivery
+ORD-1219,2024-10-12,Customer_050,Visayas,Electronics,USB Hub,1,1200,1200,Cash on Delivery
+ORD-1220,2024-02-11,Customer_075,Luzon,Sports,Yoga Mat,3,1500,4500,Cash on Delivery
+ORD-1221,2024-03-07,Customer_077,NCR,Food & Bev,Energy Drink,4,75,300,Cash on Delivery
+ORD-1222,2024-03-06,Customer_068,NCR,Sports,Resistance Bands,3,600,1800,Bank Transfer
+ORD-1223,2024-07-04,Customer_040,Luzon,Sports,Resistance Bands,1,600,600,GCash
+ORD-1224,2024-04-25,Customer_018,Luzon,Food & Bev,Protein Bar Box,2,950,1900,Credit Card
+ORD-1225,2024-10-03,Customer_068,NCR,Food & Bev,Coffee Blend 500g,5,380,1900,Cash on Delivery
+ORD-1226,2024-07-11,Customer_020,Luzon,Sports,Yoga Mat,5,1500,7500,GCash
+ORD-1227,2024-01-23,Customer_053,Visayas,Sports,Yoga Mat,4,1500,6000,GCash
+ORD-1228,2024-08-17,Customer_030,Luzon,Home & Living,Wall Clock,3,800,2400,Cash on Delivery
+ORD-1229,2024-12-13,Customer_074,Mindanao,Home & Living,Desk Lamp,3,1200,3600,Bank Transfer
+ORD-1230,2024-09-27,Customer_054,Luzon,Food & Bev,Protein Bar Box,5,950,4750,GCash
+ORD-1231,2024-01-27,Customer_062,Visayas,Sports,Yoga Mat,3,1500,4500,Credit Card
+ORD-1232,2024-02-12,Customer_021,Visayas,Sports,Yoga Mat,3,1500,4500,Bank Transfer
+ORD-1233,2024-02-16,Customer_029,Mindanao,Sports,Yoga Mat,4,1500,6000,Cash on Delivery
+ORD-1234,2024-07-21,Customer_065,Visayas,Electronics,"Monitor 27""",1,18000,18000,GCash
+ORD-1235,2024-04-24,Customer_004,Visayas,Home & Living,Desk Lamp,3,1200,3600,Credit Card
+ORD-1236,2024-01-20,Customer_037,Mindanao,Food & Bev,Coffee Blend 500g,2,380,760,GCash
+ORD-1237,2024-01-03,Customer_011,NCR,Home & Living,Storage Box,5,550,2750,Cash on Delivery
+ORD-1238,2024-11-07,Customer_068,Mindanao,Clothing,Denim Jeans,5,1800,9000,Credit Card
+ORD-1239,2024-03-03,Customer_007,Luzon,Food & Bev,Coffee Blend 500g,3,380,1140,Bank Transfer
+ORD-1240,2024-02-26,Customer_064,NCR,Sports,Resistance Bands,1,600,600,GCash
+ORD-1241,2024-01-01,Customer_079,Visayas,Clothing,Running Shoes,4,3500,14000,GCash
+ORD-1242,2024-12-06,Customer_011,Visayas,Sports,Resistance Bands,2,600,1200,Credit Card
+ORD-1243,2024-09-16,Customer_071,NCR,Sports,Jump Rope,5,350,1750,Bank Transfer
+ORD-1244,2024-07-10,Customer_033,NCR,Home & Living,Desk Lamp,4,1200,4800,Cash on Delivery
+ORD-1245,2024-12-02,Customer_014,Visayas,Electronics,USB Hub,2,1200,2400,GCash
+ORD-1246,2024-06-22,Customer_023,Mindanao,Electronics,USB Hub,5,1200,6000,Bank Transfer
+ORD-1247,2024-08-22,Customer_005,Visayas,Clothing,Denim Jeans,1,1800,1800,GCash
+ORD-1248,2024-06-10,Customer_040,Mindanao,Electronics,Wireless Mouse,1,850,850,Bank Transfer
+ORD-1249,2024-05-26,Customer_046,NCR,Food & Bev,Coffee Blend 500g,2,380,760,Cash on Delivery
+ORD-1250,2024-08-11,Customer_052,Mindanao,Food & Bev,Coffee Blend 500g,3,380,1140,Bank Transfer
+ORD-1251,2024-12-20,Customer_064,Visayas,Food & Bev,Coffee Blend 500g,4,380,1520,Cash on Delivery
+ORD-1252,2024-08-08,Customer_078,Luzon,Electronics,"Monitor 27""",1,18000,18000,Cash on Delivery
+ORD-1253,2024-06-16,Customer_038,Visayas,Food & Bev,Coffee Blend 500g,1,380,380,Bank Transfer
+ORD-1254,2024-03-26,Customer_057,Visayas,Sports,Jump Rope,4,350,1400,Bank Transfer
+ORD-1255,2024-08-10,Customer_036,NCR,Electronics,USB Hub,5,1200,6000,Credit Card
+ORD-1256,2024-12-13,Customer_021,NCR,Home & Living,Storage Box,5,550,2750,GCash
+ORD-1257,2024-01-18,Customer_017,NCR,Sports,Jump Rope,4,350,1400,GCash
+ORD-1258,2024-10-17,Customer_005,Luzon,Food & Bev,Protein Bar Box,4,950,3800,Bank Transfer
+ORD-1259,2024-02-09,Customer_074,Luzon,Food & Bev,Protein Bar Box,4,950,3800,Cash on Delivery
+ORD-1260,2024-05-07,Customer_015,NCR,Home & Living,Storage Box,3,550,1650,GCash
+ORD-1261,2024-10-14,Customer_016,Visayas,Home & Living,Wall Clock,4,800,3200,Cash on Delivery
+ORD-1262,2024-05-26,Customer_063,Luzon,Home & Living,Desk Lamp,5,1200,6000,Credit Card
+ORD-1263,2024-03-29,Customer_057,NCR,Clothing,Polo Shirt,4,650,2600,Cash on Delivery
+ORD-1264,2024-10-08,Customer_070,Visayas,Food & Bev,Energy Drink,1,75,75,Cash on Delivery
+ORD-1265,2024-09-17,Customer_029,NCR,Clothing,Denim Jeans,3,1800,5400,GCash
+ORD-1266,2024-01-14,Customer_047,Visayas,Clothing,Denim Jeans,4,1800,7200,Bank Transfer
+ORD-1267,2024-02-14,Customer_009,Visayas,Sports,Yoga Mat,5,1500,7500,Bank Transfer
+ORD-1268,2024-07-28,Customer_074,NCR,Home & Living,Wall Clock,4,800,3200,GCash
+ORD-1269,2024-08-18,Customer_060,Visayas,Food & Bev,Energy Drink,1,75,75,GCash
+ORD-1270,2024-04-03,Customer_017,Mindanao,Sports,Jump Rope,5,350,1750,Credit Card
+ORD-1271,2024-03-25,Customer_021,Visayas,Electronics,Wireless Mouse,3,850,2550,GCash
+ORD-1272,2024-02-10,Customer_033,Luzon,Food & Bev,Energy Drink,3,75,225,Cash on Delivery
+ORD-1273,2024-09-30,Customer_012,Luzon,Clothing,Running Shoes,5,3500,17500,GCash
+ORD-1274,2024-01-22,Customer_004,NCR,Clothing,Running Shoes,5,3500,17500,Credit Card
+ORD-1275,2024-10-19,Customer_054,NCR,Sports,Resistance Bands,2,600,1200,Bank Transfer
+ORD-1276,2024-09-04,Customer_032,Mindanao,Sports,Resistance Bands,3,600,1800,Cash on Delivery
+ORD-1277,2024-03-21,Customer_057,Mindanao,Home & Living,Desk Lamp,1,1200,1200,Bank Transfer
+ORD-1278,2024-11-06,Customer_019,Visayas,Home & Living,Desk Lamp,3,1200,3600,Cash on Delivery
+ORD-1279,2024-07-08,Customer_066,NCR,Food & Bev,Protein Bar Box,2,950,1900,Cash on Delivery
+ORD-1280,2024-05-16,Customer_058,Luzon,Clothing,Cap,1,400,400,GCash
+ORD-1281,2024-07-15,Customer_079,Mindanao,Electronics,Laptop Pro 15,3,65000,195000,GCash
+ORD-1282,2024-06-09,Customer_025,Luzon,Clothing,Running Shoes,5,3500,17500,Bank Transfer
+ORD-1283,2024-06-06,Customer_064,NCR,Sports,Resistance Bands,4,600,2400,Credit Card
+ORD-1284,2024-05-03,Customer_028,Visayas,Home & Living,Wall Clock,4,800,3200,Credit Card
+ORD-1285,2024-11-01,Customer_061,Visayas,Electronics,USB Hub,4,1200,4800,Credit Card
+ORD-1286,2024-05-15,Customer_047,Mindanao,Electronics,"Monitor 27""",2,18000,36000,Cash on Delivery
+ORD-1287,2024-10-18,Customer_072,Luzon,Electronics,"Monitor 27""",1,18000,18000,Cash on Delivery
+ORD-1288,2024-07-16,Customer_065,Mindanao,Sports,Resistance Bands,1,600,600,Cash on Delivery
+ORD-1289,2024-03-01,Customer_017,NCR,Sports,Jump Rope,5,350,1750,Bank Transfer
+ORD-1290,2024-07-06,Customer_019,Luzon,Food & Bev,Protein Bar Box,5,950,4750,Bank Transfer
+ORD-1291,2024-01-20,Customer_018,Visayas,Sports,Yoga Mat,1,1500,1500,Bank Transfer
+ORD-1292,2024-11-06,Customer_066,Luzon,Sports,Resistance Bands,2,600,1200,Cash on Delivery
+ORD-1293,2024-07-20,Customer_079,Visayas,Sports,Resistance Bands,2,600,1200,Cash on Delivery
+ORD-1294,2024-09-07,Customer_073,Visayas,Sports,Jump Rope,5,350,1750,Bank Transfer
+ORD-1295,2024-12-10,Customer_015,Mindanao,Electronics,USB Hub,3,1200,3600,Cash on Delivery
+ORD-1296,2024-12-01,Customer_075,Luzon,Electronics,"Monitor 27""",3,18000,54000,Credit Card
+ORD-1297,2024-09-25,Customer_080,Mindanao,Sports,Resistance Bands,2,600,1200,GCash
+ORD-1298,2024-12-24,Customer_015,Luzon,Clothing,Polo Shirt,5,650,3250,Credit Card
+ORD-1299,2024-03-18,Customer_053,Luzon,Home & Living,Storage Box,4,550,2200,Bank Transfer
+ORD-1300,2024-02-01,Customer_018,Luzon,Sports,Jump Rope,4,350,1400,Cash on Delivery
+ORD-1301,2024-06-09,Customer_023,Mindanao,Home & Living,Wall Clock,4,800,3200,Cash on Delivery
+ORD-1302,2024-11-08,Customer_062,Luzon,Sports,Resistance Bands,3,600,1800,GCash
+ORD-1303,2024-04-25,Customer_039,Visayas,Food & Bev,Energy Drink,3,75,225,GCash
+ORD-1304,2024-06-27,Customer_072,Visayas,Home & Living,Storage Box,4,550,2200,Cash on Delivery
+ORD-1305,2024-06-25,Customer_019,Visayas,Electronics,"Monitor 27""",4,18000,72000,Credit Card
+ORD-1306,2024-06-26,Customer_057,Visayas,Food & Bev,Energy Drink,1,75,75,Bank Transfer
+ORD-1307,2024-05-18,Customer_072,Visayas,Clothing,Denim Jeans,5,1800,9000,GCash
+ORD-1308,2024-01-26,Customer_068,Luzon,Electronics,Wireless Mouse,2,850,1700,GCash
+ORD-1309,2024-06-18,Customer_061,NCR,Electronics,Laptop Pro 15,4,65000,260000,GCash
+ORD-1310,2024-11-30,Customer_061,Mindanao,Electronics,Wireless Mouse,4,850,3400,GCash
+ORD-1311,2024-11-26,Customer_008,NCR,Food & Bev,Protein Bar Box,3,950,2850,GCash
+ORD-1312,2024-03-30,Customer_054,Luzon,Sports,Jump Rope,1,350,350,Credit Card
+ORD-1313,2024-05-28,Customer_005,NCR,Home & Living,Storage Box,2,550,1100,Cash on Delivery
+ORD-1314,2024-06-20,Customer_037,Mindanao,Sports,Jump Rope,1,350,350,Bank Transfer
+ORD-1315,2024-04-08,Customer_015,Visayas,Clothing,Cap,3,400,1200,GCash
+ORD-1316,2024-04-05,Customer_002,Visayas,Home & Living,Wall Clock,3,800,2400,Cash on Delivery
+ORD-1317,2024-03-30,Customer_079,Mindanao,Sports,Jump Rope,2,350,700,Bank Transfer
+ORD-1318,2024-07-24,Customer_013,Luzon,Sports,Resistance Bands,1,600,600,GCash
+ORD-1319,2024-01-04,Customer_034,Mindanao,Home & Living,Storage Box,2,550,1100,GCash
+ORD-1320,2024-06-03,Customer_075,NCR,Home & Living,Storage Box,3,550,1650,Cash on Delivery
+ORD-1321,2024-02-01,Customer_016,Mindanao,Food & Bev,Energy Drink,2,75,150,Cash on Delivery
+ORD-1322,2024-12-26,Customer_040,NCR,Clothing,Cap,5,400,2000,Cash on Delivery
+ORD-1323,2024-04-22,Customer_018,Mindanao,Food & Bev,Energy Drink,2,75,150,GCash
+ORD-1324,2024-07-10,Customer_054,Mindanao,Home & Living,Wall Clock,5,800,4000,GCash
+ORD-1325,2024-08-16,Customer_068,Visayas,Clothing,Polo Shirt,5,650,3250,Credit Card
+ORD-1326,2024-10-07,Customer_065,Luzon,Sports,Yoga Mat,1,1500,1500,GCash
+ORD-1327,2024-08-14,Customer_015,Luzon,Clothing,Running Shoes,5,3500,17500,Bank Transfer
+ORD-1328,2024-08-20,Customer_017,Mindanao,Electronics,"Monitor 27""",1,18000,18000,Bank Transfer
+ORD-1329,2024-08-24,Customer_040,NCR,Sports,Yoga Mat,5,1500,7500,Bank Transfer
+ORD-1330,2024-10-23,Customer_010,NCR,Food & Bev,Coffee Blend 500g,2,380,760,Bank Transfer
+ORD-1331,2024-10-04,Customer_008,NCR,Food & Bev,Energy Drink,1,75,75,Bank Transfer
+ORD-1332,2024-04-02,Customer_018,Mindanao,Electronics,USB Hub,4,1200,4800,Cash on Delivery
+ORD-1333,2024-07-11,Customer_011,Luzon,Home & Living,Storage Box,4,550,2200,Cash on Delivery
+ORD-1334,2024-07-20,Customer_068,Luzon,Electronics,Wireless Mouse,5,850,4250,GCash
+ORD-1335,2024-08-25,Customer_070,Mindanao,Electronics,Laptop Pro 15,3,65000,195000,Bank Transfer
+ORD-1336,2024-06-26,Customer_020,Visayas,Clothing,Denim Jeans,4,1800,7200,GCash
+ORD-1337,2024-11-10,Customer_003,Luzon,Electronics,Laptop Pro 15,4,65000,260000,GCash
+ORD-1338,2024-01-18,Customer_058,NCR,Electronics,Laptop Pro 15,5,65000,325000,GCash
+ORD-1339,2024-04-29,Customer_070,Luzon,Electronics,"Monitor 27""",4,18000,72000,Credit Card
+ORD-1340,2024-10-21,Customer_041,Visayas,Clothing,Running Shoes,2,3500,7000,GCash
+ORD-1341,2024-04-23,Customer_053,Visayas,Food & Bev,Coffee Blend 500g,5,380,1900,Cash on Delivery
+ORD-1342,2024-10-11,Customer_064,NCR,Electronics,Wireless Mouse,4,850,3400,Cash on Delivery
+ORD-1343,2024-12-22,Customer_054,Mindanao,Home & Living,Wall Clock,3,800,2400,GCash
+ORD-1344,2024-10-02,Customer_061,Luzon,Food & Bev,Protein Bar Box,2,950,1900,GCash
+ORD-1345,2024-08-25,Customer_008,Mindanao,Food & Bev,Energy Drink,2,75,150,Bank Transfer
+ORD-1346,2024-07-17,Customer_032,Visayas,Sports,Jump Rope,2,350,700,GCash
+ORD-1347,2024-08-18,Customer_048,NCR,Food & Bev,Energy Drink,1,75,75,GCash
+ORD-1348,2024-12-10,Customer_078,NCR,Electronics,USB Hub,4,1200,4800,Credit Card
+ORD-1349,2024-04-16,Customer_043,Visayas,Clothing,Denim Jeans,4,1800,7200,Credit Card
+ORD-1350,2024-09-02,Customer_032,Luzon,Clothing,Denim Jeans,1,1800,1800,Bank Transfer
+ORD-1351,2024-07-13,Customer_060,Visayas,Clothing,Running Shoes,3,3500,10500,Cash on Delivery
+ORD-1352,2024-09-11,Customer_060,NCR,Food & Bev,Protein Bar Box,5,950,4750,Bank Transfer
+ORD-1353,2024-06-09,Customer_053,NCR,Food & Bev,Coffee Blend 500g,3,380,1140,GCash
+ORD-1354,2024-10-10,Customer_075,Mindanao,Clothing,Polo Shirt,3,650,1950,Cash on Delivery
+ORD-1355,2024-04-27,Customer_049,Luzon,Clothing,Denim Jeans,3,1800,5400,Bank Transfer
+ORD-1356,2024-05-11,Customer_063,Mindanao,Sports,Jump Rope,3,350,1050,Bank Transfer
+ORD-1357,2024-03-12,Customer_070,Mindanao,Clothing,Running Shoes,2,3500,7000,GCash
+ORD-1358,2024-09-25,Customer_005,NCR,Sports,Jump Rope,1,350,350,Credit Card
+ORD-1359,2024-11-18,Customer_030,NCR,Electronics,"Monitor 27""",2,18000,36000,GCash
+ORD-1360,2024-08-21,Customer_048,NCR,Electronics,Wireless Mouse,5,850,4250,Bank Transfer
+ORD-1361,2024-09-29,Customer_071,Mindanao,Home & Living,Desk Lamp,1,1200,1200,Credit Card
+ORD-1362,2024-05-26,Customer_003,Mindanao,Electronics,USB Hub,5,1200,6000,GCash
+ORD-1363,2024-03-17,Customer_031,Luzon,Electronics,Laptop Pro 15,5,65000,325000,Cash on Delivery
+ORD-1364,2024-02-10,Customer_048,Mindanao,Food & Bev,Protein Bar Box,4,950,3800,Bank Transfer
+ORD-1365,2024-06-02,Customer_011,NCR,Sports,Yoga Mat,2,1500,3000,Credit Card
+ORD-1366,2024-10-09,Customer_061,NCR,Home & Living,Storage Box,4,550,2200,Credit Card
+ORD-1367,2024-08-10,Customer_043,NCR,Clothing,Polo Shirt,4,650,2600,Credit Card
+ORD-1368,2024-08-31,Customer_035,NCR,Clothing,Denim Jeans,5,1800,9000,Credit Card
+ORD-1369,2024-12-02,Customer_005,Luzon,Food & Bev,Energy Drink,5,75,375,Cash on Delivery
+ORD-1370,2024-03-14,Customer_051,NCR,Electronics,Wireless Mouse,5,850,4250,Cash on Delivery
+ORD-1371,2024-07-18,Customer_070,Visayas,Clothing,Denim Jeans,5,1800,9000,Bank Transfer
+ORD-1372,2024-06-26,Customer_007,NCR,Clothing,Polo Shirt,5,650,3250,Bank Transfer
+ORD-1373,2024-11-05,Customer_079,Mindanao,Clothing,Polo Shirt,3,650,1950,Cash on Delivery
+ORD-1374,2024-09-08,Customer_030,Visayas,Electronics,USB Hub,4,1200,4800,Bank Transfer
+ORD-1375,2024-12-04,Customer_049,NCR,Home & Living,Desk Lamp,5,1200,6000,Cash on Delivery
+ORD-1376,2024-05-17,Customer_020,Mindanao,Clothing,Polo Shirt,1,650,650,GCash
+ORD-1377,2024-02-24,Customer_012,NCR,Home & Living,Storage Box,3,550,1650,Cash on Delivery
+ORD-1378,2024-02-22,Customer_017,NCR,Home & Living,Storage Box,3,550,1650,GCash
+ORD-1379,2024-10-11,Customer_066,Mindanao,Home & Living,Storage Box,5,550,2750,Credit Card
+ORD-1380,2024-10-10,Customer_012,Visayas,Electronics,Laptop Pro 15,3,65000,195000,Bank Transfer
+ORD-1381,2024-07-17,Customer_011,Luzon,Electronics,USB Hub,4,1200,4800,GCash
+ORD-1382,2024-05-17,Customer_039,Visayas,Home & Living,Desk Lamp,2,1200,2400,Bank Transfer
+ORD-1383,2024-08-10,Customer_036,Mindanao,Clothing,Polo Shirt,2,650,1300,Cash on Delivery
+ORD-1384,2024-05-08,Customer_032,Mindanao,Home & Living,Desk Lamp,3,1200,3600,GCash
+ORD-1385,2024-06-04,Customer_001,Mindanao,Home & Living,Desk Lamp,2,1200,2400,Cash on Delivery
+ORD-1386,2024-08-13,Customer_043,Mindanao,Sports,Resistance Bands,3,600,1800,GCash
+ORD-1387,2024-12-21,Customer_026,Mindanao,Food & Bev,Protein Bar Box,5,950,4750,Cash on Delivery
+ORD-1388,2024-05-29,Customer_063,Luzon,Clothing,Cap,3,400,1200,Cash on Delivery
+ORD-1389,2024-07-05,Customer_015,Luzon,Home & Living,Storage Box,4,550,2200,GCash
+ORD-1390,2024-12-28,Customer_027,Mindanao,Sports,Yoga Mat,4,1500,6000,Cash on Delivery
+ORD-1391,2024-03-12,Customer_039,Luzon,Electronics,"Monitor 27""",4,18000,72000,Cash on Delivery
+ORD-1392,2024-02-07,Customer_058,Mindanao,Clothing,Cap,4,400,1600,Bank Transfer
+ORD-1393,2024-10-05,Customer_005,Visayas,Sports,Jump Rope,4,350,1400,Credit Card
+ORD-1394,2024-03-26,Customer_079,NCR,Electronics,Wireless Mouse,3,850,2550,Bank Transfer
+ORD-1395,2024-01-06,Customer_013,Visayas,Food & Bev,Protein Bar Box,1,950,950,GCash
+ORD-1396,2024-10-12,Customer_075,Luzon,Sports,Jump Rope,5,350,1750,Bank Transfer
+ORD-1397,2024-12-13,Customer_076,Luzon,Food & Bev,Protein Bar Box,4,950,3800,Cash on Delivery
+ORD-1398,2024-05-31,Customer_054,NCR,Electronics,"Monitor 27""",1,18000,18000,Credit Card
+ORD-1399,2024-06-24,Customer_059,Luzon,Clothing,Running Shoes,3,3500,10500,Bank Transfer
+ORD-1400,2024-08-12,Customer_058,Visayas,Food & Bev,Protein Bar Box,1,950,950,Credit Card
+ORD-1401,2024-01-12,Customer_044,NCR,Food & Bev,Coffee Blend 500g,1,380,380,GCash
+ORD-1402,2024-03-22,Customer_043,Mindanao,Clothing,Denim Jeans,5,1800,9000,Bank Transfer
+ORD-1403,2024-04-05,Customer_056,Mindanao,Clothing,Cap,2,400,800,Credit Card
+ORD-1404,2024-10-30,Customer_055,Mindanao,Sports,Yoga Mat,4,1500,6000,Credit Card
+ORD-1405,2024-12-26,Customer_009,NCR,Clothing,Denim Jeans,3,1800,5400,GCash
+ORD-1406,2024-08-22,Customer_015,Visayas,Food & Bev,Protein Bar Box,2,950,1900,Bank Transfer
+ORD-1407,2024-11-01,Customer_050,Mindanao,Sports,Jump Rope,3,350,1050,Credit Card
+ORD-1408,2024-11-12,Customer_023,Visayas,Food & Bev,Protein Bar Box,4,950,3800,Credit Card
+ORD-1409,2024-05-02,Customer_040,NCR,Clothing,Running Shoes,1,3500,3500,GCash
+ORD-1410,2024-09-18,Customer_050,Mindanao,Food & Bev,Energy Drink,2,75,150,GCash
+ORD-1411,2024-04-05,Customer_063,Luzon,Sports,Resistance Bands,4,600,2400,GCash
+ORD-1412,2024-04-05,Customer_041,Mindanao,Home & Living,Storage Box,2,550,1100,Credit Card
+ORD-1413,2024-03-10,Customer_025,Mindanao,Food & Bev,Coffee Blend 500g,4,380,1520,Bank Transfer
+ORD-1414,2024-07-31,Customer_057,Mindanao,Home & Living,Wall Clock,4,800,3200,GCash
+ORD-1415,2024-05-29,Customer_005,Visayas,Electronics,Laptop Pro 15,2,65000,130000,GCash
+ORD-1416,2024-08-22,Customer_073,Mindanao,Sports,Resistance Bands,2,600,1200,Credit Card
+ORD-1417,2024-10-05,Customer_047,NCR,Sports,Yoga Mat,3,1500,4500,Bank Transfer
+ORD-1418,2024-02-22,Customer_032,Visayas,Sports,Yoga Mat,4,1500,6000,Credit Card
+ORD-1419,2024-02-14,Customer_057,NCR,Home & Living,Storage Box,3,550,1650,GCash
+ORD-1420,2024-11-19,Customer_055,Luzon,Clothing,Running Shoes,5,3500,17500,GCash
+ORD-1421,2024-10-18,Customer_045,Visayas,Clothing,Denim Jeans,1,1800,1800,GCash
+ORD-1422,2024-05-28,Customer_074,Visayas,Food & Bev,Energy Drink,3,75,225,Credit Card
+ORD-1423,2024-05-21,Customer_017,Luzon,Clothing,Cap,1,400,400,GCash
+ORD-1424,2024-12-12,Customer_051,Mindanao,Clothing,Running Shoes,2,3500,7000,GCash
+ORD-1425,2024-11-17,Customer_054,Mindanao,Sports,Jump Rope,3,350,1050,Bank Transfer
+ORD-1426,2024-09-20,Customer_036,Visayas,Electronics,Laptop Pro 15,4,65000,260000,Bank Transfer
+ORD-1427,2024-01-02,Customer_012,Mindanao,Home & Living,Storage Box,5,550,2750,Cash on Delivery
+ORD-1428,2024-08-07,Customer_028,Mindanao,Electronics,"Monitor 27""",2,18000,36000,Cash on Delivery
+ORD-1429,2024-10-07,Customer_074,Luzon,Food & Bev,Protein Bar Box,3,950,2850,Bank Transfer
+ORD-1430,2024-01-24,Customer_013,Mindanao,Food & Bev,Energy Drink,1,75,75,Credit Card
+ORD-1431,2024-08-21,Customer_001,Mindanao,Electronics,Wireless Mouse,4,850,3400,GCash
+ORD-1432,2024-05-20,Customer_012,Visayas,Clothing,Running Shoes,2,3500,7000,Cash on Delivery
+ORD-1433,2024-01-27,Customer_051,Visayas,Electronics,USB Hub,2,1200,2400,GCash
+ORD-1434,2024-12-26,Customer_013,NCR,Home & Living,Wall Clock,1,800,800,GCash
+ORD-1435,2024-10-30,Customer_029,Mindanao,Home & Living,Desk Lamp,2,1200,2400,Credit Card
+ORD-1436,2024-08-04,Customer_017,Mindanao,Electronics,USB Hub,1,1200,1200,Credit Card
+ORD-1437,2024-02-22,Customer_014,Visayas,Clothing,Cap,1,400,400,Cash on Delivery
+ORD-1438,2024-03-09,Customer_019,NCR,Food & Bev,Coffee Blend 500g,4,380,1520,Credit Card
+ORD-1439,2024-08-13,Customer_045,Luzon,Sports,Jump Rope,2,350,700,GCash
+ORD-1440,2024-04-21,Customer_012,NCR,Home & Living,Wall Clock,4,800,3200,GCash
+ORD-1441,2024-08-07,Customer_041,Luzon,Electronics,"Monitor 27""",3,18000,54000,GCash
+ORD-1442,2024-05-07,Customer_071,Visayas,Food & Bev,Energy Drink,1,75,75,Credit Card
+ORD-1443,2024-11-06,Customer_066,Luzon,Food & Bev,Coffee Blend 500g,5,380,1900,Bank Transfer
+ORD-1444,2024-05-02,Customer_064,Mindanao,Food & Bev,Energy Drink,1,75,75,Credit Card
+ORD-1445,2024-02-06,Customer_068,NCR,Clothing,Cap,5,400,2000,Cash on Delivery
+ORD-1446,2024-10-18,Customer_054,Visayas,Food & Bev,Coffee Blend 500g,4,380,1520,GCash
+ORD-1447,2024-10-27,Customer_009,NCR,Home & Living,Desk Lamp,1,1200,1200,Cash on Delivery
+ORD-1448,2024-07-22,Customer_065,Visayas,Clothing,Polo Shirt,1,650,650,Bank Transfer
+ORD-1449,2024-02-12,Customer_069,Luzon,Home & Living,Wall Clock,4,800,3200,Cash on Delivery
+ORD-1450,2024-09-18,Customer_027,Luzon,Electronics,USB Hub,1,1200,1200,Cash on Delivery
+ORD-1451,2024-06-07,Customer_056,Luzon,Home & Living,Wall Clock,1,800,800,Credit Card
+ORD-1452,2024-02-29,Customer_059,NCR,Clothing,Polo Shirt,4,650,2600,Cash on Delivery
+ORD-1453,2024-12-28,Customer_018,NCR,Clothing,Polo Shirt,1,650,650,GCash
+ORD-1454,2024-09-21,Customer_034,Luzon,Home & Living,Storage Box,5,550,2750,Cash on Delivery
+ORD-1455,2024-01-16,Customer_043,Mindanao,Clothing,Running Shoes,1,3500,3500,Cash on Delivery
+ORD-1456,2024-12-30,Customer_074,NCR,Sports,Yoga Mat,3,1500,4500,Bank Transfer
+ORD-1457,2024-01-29,Customer_064,Luzon,Home & Living,Wall Clock,3,800,2400,Cash on Delivery
+ORD-1458,2024-10-20,Customer_015,Luzon,Clothing,Running Shoes,1,3500,3500,Credit Card
+ORD-1459,2024-01-24,Customer_061,Visayas,Electronics,Laptop Pro 15,2,65000,130000,Bank Transfer
+ORD-1460,2024-10-10,Customer_054,Luzon,Clothing,Denim Jeans,1,1800,1800,Cash on Delivery
+ORD-1461,2024-05-18,Customer_010,Visayas,Clothing,Cap,3,400,1200,Credit Card
+ORD-1462,2024-04-01,Customer_029,NCR,Sports,Jump Rope,1,350,350,Bank Transfer
+ORD-1463,2024-06-08,Customer_042,NCR,Electronics,"Monitor 27""",3,18000,54000,Bank Transfer
+ORD-1464,2024-05-29,Customer_073,Visayas,Electronics,USB Hub,2,1200,2400,GCash
+ORD-1465,2024-09-09,Customer_026,Luzon,Home & Living,Storage Box,5,550,2750,GCash
+ORD-1466,2024-04-29,Customer_070,Visayas,Electronics,"Monitor 27""",1,18000,18000,Credit Card
+ORD-1467,2024-06-06,Customer_014,Luzon,Food & Bev,Coffee Blend 500g,4,380,1520,GCash
+ORD-1468,2024-03-13,Customer_036,NCR,Home & Living,Storage Box,1,550,550,Credit Card
+ORD-1469,2024-08-22,Customer_011,NCR,Clothing,Cap,3,400,1200,GCash
+ORD-1470,2024-10-17,Customer_008,Mindanao,Home & Living,Desk Lamp,5,1200,6000,GCash
+ORD-1471,2024-06-10,Customer_051,Visayas,Clothing,Running Shoes,3,3500,10500,Cash on Delivery
+ORD-1472,2024-02-08,Customer_026,Luzon,Home & Living,Storage Box,2,550,1100,Credit Card
+ORD-1473,2024-08-18,Customer_060,Visayas,Clothing,Polo Shirt,2,650,1300,Bank Transfer
+ORD-1474,2024-08-19,Customer_040,Mindanao,Electronics,USB Hub,2,1200,2400,Cash on Delivery
+ORD-1475,2024-12-17,Customer_039,NCR,Electronics,Laptop Pro 15,2,65000,130000,GCash
+ORD-1476,2024-12-30,Customer_032,Visayas,Food & Bev,Coffee Blend 500g,1,380,380,Bank Transfer
+ORD-1477,2024-05-13,Customer_023,NCR,Sports,Yoga Mat,3,1500,4500,Bank Transfer
+ORD-1478,2024-05-07,Customer_013,Mindanao,Home & Living,Wall Clock,5,800,4000,Credit Card
+ORD-1479,2024-02-01,Customer_029,Luzon,Clothing,Polo Shirt,1,650,650,GCash
+ORD-1480,2024-10-25,Customer_076,Visayas,Home & Living,Storage Box,1,550,550,Credit Card
+ORD-1481,2024-11-26,Customer_057,Luzon,Electronics,Laptop Pro 15,2,65000,130000,Credit Card
+ORD-1482,2024-08-24,Customer_007,Luzon,Food & Bev,Coffee Blend 500g,1,380,380,Bank Transfer
+ORD-1483,2024-07-14,Customer_055,Luzon,Home & Living,Storage Box,1,550,550,Cash on Delivery
+ORD-1484,2024-05-23,Customer_058,Luzon,Clothing,Denim Jeans,3,1800,5400,Credit Card
+ORD-1485,2024-05-05,Customer_038,Mindanao,Sports,Jump Rope,5,350,1750,Bank Transfer
+ORD-1486,2024-02-14,Customer_036,Mindanao,Sports,Resistance Bands,1,600,600,GCash
+ORD-1487,2024-05-07,Customer_070,NCR,Home & Living,Desk Lamp,5,1200,6000,Bank Transfer
+ORD-1488,2024-09-05,Customer_045,Visayas,Food & Bev,Protein Bar Box,5,950,4750,Bank Transfer
+ORD-1489,2024-06-12,Customer_077,Luzon,Food & Bev,Coffee Blend 500g,1,380,380,Credit Card
+ORD-1490,2024-09-28,Customer_046,Luzon,Food & Bev,Coffee Blend 500g,4,380,1520,GCash
+ORD-1491,2024-05-16,Customer_069,NCR,Electronics,Wireless Mouse,2,850,1700,GCash
+ORD-1492,2024-03-29,Customer_023,Luzon,Sports,Resistance Bands,3,600,1800,Cash on Delivery
+ORD-1493,2024-12-26,Customer_046,Luzon,Food & Bev,Energy Drink,1,75,75,GCash
+ORD-1494,2024-03-30,Customer_063,NCR,Home & Living,Wall Clock,3,800,2400,Credit Card
+ORD-1495,2024-04-22,Customer_003,Mindanao,Electronics,Wireless Mouse,5,850,4250,Credit Card
+ORD-1496,2024-03-07,Customer_044,Luzon,Food & Bev,Energy Drink,2,75,150,Cash on Delivery
+ORD-1497,2024-10-27,Customer_019,NCR,Electronics,Laptop Pro 15,2,65000,130000,Cash on Delivery
+ORD-1498,2024-10-27,Customer_013,Visayas,Electronics,USB Hub,4,1200,4800,Cash on Delivery
+ORD-1499,2024-08-11,Customer_063,Visayas,Food & Bev,Coffee Blend 500g,2,380,760,GCash
+ORD-1500,2024-07-01,Customer_029,Luzon,Sports,Jump Rope,5,350,1750,Bank Transfer
+ORD-1501,2024-03-06,Customer_023,NCR,Food & Bev,Energy Drink,3,75,225,Bank Transfer
+ORD-1502,2024-11-04,Customer_041,Luzon,Sports,Yoga Mat,2,1500,3000,Credit Card
+ORD-1503,2024-02-09,Customer_031,Visayas,Home & Living,Desk Lamp,3,1200,3600,Cash on Delivery
+ORD-1504,2024-08-16,Customer_002,Visayas,Clothing,Polo Shirt,3,650,1950,GCash
+ORD-1505,2024-05-11,Customer_014,NCR,Clothing,Polo Shirt,3,650,1950,Credit Card
+ORD-1506,2024-03-26,Customer_053,Mindanao,Home & Living,Storage Box,4,550,2200,Bank Transfer
+ORD-1507,2024-02-21,Customer_062,Luzon,Food & Bev,Energy Drink,4,75,300,GCash
+ORD-1508,2024-05-30,Customer_003,Visayas,Home & Living,Desk Lamp,1,1200,1200,Cash on Delivery
+ORD-1509,2024-03-28,Customer_049,Luzon,Electronics,Laptop Pro 15,3,65000,195000,Credit Card
+ORD-1510,2024-10-31,Customer_079,Mindanao,Sports,Yoga Mat,3,1500,4500,Credit Card
+ORD-1511,2024-11-06,Customer_056,Luzon,Home & Living,Wall Clock,2,800,1600,Credit Card
+ORD-1512,2024-04-07,Customer_053,Visayas,Electronics,USB Hub,2,1200,2400,Cash on Delivery
+ORD-1513,2024-01-26,Customer_051,Mindanao,Food & Bev,Coffee Blend 500g,1,380,380,GCash
+ORD-1514,2024-08-06,Customer_012,Visayas,Electronics,USB Hub,1,1200,1200,Bank Transfer
+ORD-1515,2024-04-15,Customer_022,Visayas,Clothing,Polo Shirt,1,650,650,Credit Card
+ORD-1516,2024-07-22,Customer_061,Mindanao,Home & Living,Desk Lamp,3,1200,3600,Cash on Delivery
+ORD-1517,2024-07-08,Customer_049,Visayas,Electronics,"Monitor 27""",2,18000,36000,GCash
+ORD-1518,2024-08-13,Customer_060,Visayas,Home & Living,Desk Lamp,3,1200,3600,GCash
+ORD-1519,2024-03-18,Customer_013,NCR,Food & Bev,Energy Drink,1,75,75,Cash on Delivery
+ORD-1520,2024-04-26,Customer_071,NCR,Sports,Resistance Bands,5,600,3000,Bank Transfer
+ORD-1521,2024-12-17,Customer_061,Luzon,Sports,Resistance Bands,5,600,3000,Bank Transfer
+ORD-1522,2024-01-18,Customer_065,Luzon,Food & Bev,Coffee Blend 500g,4,380,1520,Credit Card
+ORD-1523,2024-04-18,Customer_025,Luzon,Home & Living,Desk Lamp,2,1200,2400,Credit Card
+ORD-1524,2024-04-13,Customer_019,Visayas,Home & Living,Desk Lamp,4,1200,4800,Cash on Delivery
+ORD-1525,2024-10-11,Customer_051,Visayas,Electronics,Laptop Pro 15,4,65000,260000,Cash on Delivery
+ORD-1526,2024-12-24,Customer_080,Mindanao,Sports,Resistance Bands,1,600,600,Credit Card
+ORD-1527,2024-10-17,Customer_076,NCR,Home & Living,Desk Lamp,2,1200,2400,Credit Card
+ORD-1528,2024-10-01,Customer_045,Mindanao,Sports,Yoga Mat,3,1500,4500,Cash on Delivery
+ORD-1529,2024-10-19,Customer_078,Mindanao,Home & Living,Wall Clock,4,800,3200,Credit Card
+ORD-1530,2024-03-14,Customer_080,Mindanao,Clothing,Running Shoes,4,3500,14000,Credit Card
+ORD-1531,2024-01-26,Customer_061,Visayas,Home & Living,Storage Box,2,550,1100,Cash on Delivery
+ORD-1532,2024-06-08,Customer_036,Mindanao,Electronics,USB Hub,3,1200,3600,Credit Card
+ORD-1533,2024-08-14,Customer_042,Visayas,Clothing,Denim Jeans,3,1800,5400,Bank Transfer
+ORD-1534,2024-04-06,Customer_057,Luzon,Sports,Jump Rope,1,350,350,Bank Transfer
+ORD-1535,2024-01-29,Customer_066,Luzon,Home & Living,Wall Clock,3,800,2400,Credit Card
+ORD-1536,2024-07-25,Customer_018,NCR,Food & Bev,Energy Drink,5,75,375,GCash
+ORD-1537,2024-05-07,Customer_005,Mindanao,Clothing,Denim Jeans,1,1800,1800,Credit Card
+ORD-1538,2024-05-20,Customer_048,Mindanao,Food & Bev,Energy Drink,2,75,150,Bank Transfer
+ORD-1539,2024-07-09,Customer_063,Mindanao,Electronics,Laptop Pro 15,2,65000,130000,GCash
+ORD-1540,2024-06-28,Customer_045,Luzon,Home & Living,Wall Clock,5,800,4000,Cash on Delivery
+ORD-1541,2024-07-16,Customer_007,Luzon,Electronics,USB Hub,1,1200,1200,GCash
+ORD-1542,2024-05-17,Customer_053,NCR,Clothing,Denim Jeans,2,1800,3600,Credit Card
+ORD-1543,2024-11-03,Customer_002,Luzon,Home & Living,Desk Lamp,2,1200,2400,Cash on Delivery
+ORD-1544,2024-08-04,Customer_049,Visayas,Sports,Resistance Bands,3,600,1800,Bank Transfer
+ORD-1545,2024-06-03,Customer_067,Mindanao,Food & Bev,Coffee Blend 500g,4,380,1520,Credit Card
+ORD-1546,2024-11-27,Customer_077,Visayas,Electronics,USB Hub,5,1200,6000,Cash on Delivery
+ORD-1547,2024-06-21,Customer_036,Visayas,Electronics,"Monitor 27""",1,18000,18000,Cash on Delivery
+ORD-1548,2024-04-06,Customer_020,Luzon,Food & Bev,Energy Drink,3,75,225,Credit Card
+ORD-1549,2024-12-14,Customer_018,NCR,Sports,Resistance Bands,3,600,1800,Bank Transfer
+ORD-1550,2024-07-26,Customer_050,NCR,Food & Bev,Protein Bar Box,4,950,3800,GCash
+ORD-1551,2024-12-17,Customer_069,Mindanao,Food & Bev,Energy Drink,2,75,150,Cash on Delivery
+ORD-1552,2024-12-02,Customer_072,Luzon,Sports,Resistance Bands,2,600,1200,Cash on Delivery
+ORD-1553,2024-05-12,Customer_072,Luzon,Electronics,"Monitor 27""",2,18000,36000,Cash on Delivery
+ORD-1554,2024-04-24,Customer_040,Mindanao,Electronics,Wireless Mouse,3,850,2550,Cash on Delivery
+ORD-1555,2024-05-30,Customer_060,NCR,Food & Bev,Protein Bar Box,5,950,4750,Bank Transfer
+ORD-1556,2024-04-09,Customer_065,NCR,Electronics,Laptop Pro 15,4,65000,260000,Bank Transfer
+ORD-1557,2024-01-28,Customer_020,Luzon,Sports,Resistance Bands,4,600,2400,GCash
+ORD-1558,2024-08-22,Customer_019,Visayas,Food & Bev,Protein Bar Box,5,950,4750,GCash
+ORD-1559,2024-11-19,Customer_023,Visayas,Electronics,"Monitor 27""",3,18000,54000,Credit Card
+ORD-1560,2024-04-17,Customer_022,Luzon,Electronics,"Monitor 27""",3,18000,54000,Bank Transfer
+ORD-1561,2024-08-10,Customer_055,Mindanao,Electronics,Wireless Mouse,5,850,4250,Bank Transfer
+ORD-1562,2024-01-20,Customer_069,Luzon,Home & Living,Storage Box,1,550,550,Cash on Delivery
+ORD-1563,2024-04-07,Customer_003,NCR,Electronics,USB Hub,5,1200,6000,GCash
+ORD-1564,2024-03-07,Customer_014,Mindanao,Clothing,Running Shoes,3,3500,10500,Cash on Delivery
+ORD-1565,2024-06-01,Customer_038,Mindanao,Clothing,Polo Shirt,1,650,650,Cash on Delivery
+ORD-1566,2024-06-24,Customer_063,Visayas,Home & Living,Wall Clock,2,800,1600,GCash
+ORD-1567,2024-04-26,Customer_029,Luzon,Clothing,Cap,1,400,400,GCash
+ORD-1568,2024-07-06,Customer_005,Mindanao,Electronics,Wireless Mouse,1,850,850,Cash on Delivery
+ORD-1569,2024-10-31,Customer_007,NCR,Sports,Jump Rope,1,350,350,Credit Card
+ORD-1570,2024-08-15,Customer_049,NCR,Electronics,Laptop Pro 15,4,65000,260000,Cash on Delivery
+ORD-1571,2024-04-15,Customer_002,Visayas,Home & Living,Wall Clock,2,800,1600,Bank Transfer
+ORD-1572,2024-11-06,Customer_018,Mindanao,Electronics,USB Hub,5,1200,6000,Credit Card
+ORD-1573,2024-03-01,Customer_037,NCR,Sports,Jump Rope,5,350,1750,Credit Card
+ORD-1574,2024-04-12,Customer_034,Luzon,Home & Living,Desk Lamp,5,1200,6000,Cash on Delivery
+ORD-1575,2024-01-21,Customer_071,Mindanao,Home & Living,Storage Box,2,550,1100,GCash
+ORD-1576,2024-01-02,Customer_002,NCR,Home & Living,Storage Box,2,550,1100,Credit Card
+ORD-1577,2024-03-17,Customer_012,NCR,Sports,Jump Rope,4,350,1400,Credit Card
+ORD-1578,2024-08-21,Customer_038,Visayas,Food & Bev,Energy Drink,2,75,150,Bank Transfer
+ORD-1579,2024-01-21,Customer_038,Visayas,Electronics,Laptop Pro 15,2,65000,130000,Cash on Delivery
+ORD-1580,2024-02-18,Customer_006,NCR,Home & Living,Wall Clock,1,800,800,GCash
+ORD-1581,2024-08-12,Customer_080,Visayas,Clothing,Running Shoes,3,3500,10500,Credit Card
+ORD-1582,2024-02-28,Customer_052,Mindanao,Food & Bev,Protein Bar Box,2,950,1900,Bank Transfer
+ORD-1583,2024-08-03,Customer_022,NCR,Food & Bev,Protein Bar Box,4,950,3800,GCash
+ORD-1584,2024-08-01,Customer_076,Mindanao,Electronics,Wireless Mouse,1,850,850,Bank Transfer
+ORD-1585,2024-11-09,Customer_004,Luzon,Clothing,Cap,3,400,1200,Bank Transfer
+ORD-1586,2024-08-13,Customer_006,NCR,Home & Living,Desk Lamp,4,1200,4800,Cash on Delivery
+ORD-1587,2024-10-22,Customer_073,Luzon,Food & Bev,Coffee Blend 500g,5,380,1900,Cash on Delivery
+ORD-1588,2024-02-18,Customer_056,Luzon,Sports,Jump Rope,5,350,1750,Bank Transfer
+ORD-1589,2024-03-17,Customer_072,NCR,Food & Bev,Energy Drink,4,75,300,Credit Card
+ORD-1590,2024-03-25,Customer_010,Mindanao,Clothing,Cap,4,400,1600,Cash on Delivery
+ORD-1591,2024-01-26,Customer_065,Luzon,Clothing,Running Shoes,3,3500,10500,Bank Transfer
+ORD-1592,2024-08-23,Customer_057,Mindanao,Home & Living,Desk Lamp,1,1200,1200,Credit Card
+ORD-1593,2024-03-01,Customer_064,NCR,Home & Living,Storage Box,3,550,1650,Credit Card
+ORD-1594,2024-10-12,Customer_071,NCR,Home & Living,Storage Box,1,550,550,Credit Card
+ORD-1595,2024-09-17,Customer_072,Luzon,Sports,Jump Rope,3,350,1050,Bank Transfer
+ORD-1596,2024-04-24,Customer_059,Visayas,Food & Bev,Protein Bar Box,1,950,950,Bank Transfer
+ORD-1597,2024-02-28,Customer_013,Luzon,Food & Bev,Energy Drink,4,75,300,Credit Card
+ORD-1598,2024-10-07,Customer_067,Visayas,Food & Bev,Protein Bar Box,3,950,2850,Credit Card
+ORD-1599,2024-03-12,Customer_053,NCR,Electronics,Wireless Mouse,4,850,3400,Cash on Delivery
+ORD-1600,2024-03-02,Customer_051,Luzon,Sports,Yoga Mat,2,1500,3000,Bank Transfer
+ORD-1601,2024-07-31,Customer_006,NCR,Clothing,Running Shoes,1,3500,3500,Bank Transfer
+ORD-1602,2024-09-15,Customer_018,Mindanao,Home & Living,Wall Clock,5,800,4000,Credit Card
+ORD-1603,2024-10-10,Customer_056,Mindanao,Sports,Jump Rope,1,350,350,GCash
+ORD-1604,2024-02-23,Customer_050,Visayas,Sports,Yoga Mat,2,1500,3000,Bank Transfer
+ORD-1605,2024-05-20,Customer_051,Visayas,Home & Living,Wall Clock,2,800,1600,Cash on Delivery
+ORD-1606,2024-07-30,Customer_078,Visayas,Home & Living,Desk Lamp,2,1200,2400,Cash on Delivery
+ORD-1607,2024-04-12,Customer_027,Visayas,Sports,Jump Rope,2,350,700,Cash on Delivery
+ORD-1608,2024-10-04,Customer_042,NCR,Clothing,Denim Jeans,5,1800,9000,Cash on Delivery
+ORD-1609,2024-10-19,Customer_054,Visayas,Sports,Resistance Bands,5,600,3000,Bank Transfer
+ORD-1610,2024-07-14,Customer_019,NCR,Electronics,Laptop Pro 15,1,65000,65000,Credit Card
+ORD-1611,2024-05-26,Customer_033,Luzon,Clothing,Running Shoes,2,3500,7000,Credit Card
+ORD-1612,2024-01-17,Customer_046,Mindanao,Food & Bev,Coffee Blend 500g,5,380,1900,Credit Card
+ORD-1613,2024-04-24,Customer_072,Mindanao,Sports,Jump Rope,5,350,1750,GCash
+ORD-1614,2024-12-20,Customer_007,Mindanao,Sports,Jump Rope,3,350,1050,Bank Transfer
+ORD-1615,2024-10-09,Customer_007,NCR,Home & Living,Wall Clock,3,800,2400,Cash on Delivery
+ORD-1616,2024-11-20,Customer_048,Luzon,Clothing,Cap,2,400,800,GCash
+ORD-1617,2024-12-15,Customer_010,Luzon,Food & Bev,Protein Bar Box,2,950,1900,GCash
+ORD-1618,2024-01-21,Customer_055,Visayas,Sports,Yoga Mat,4,1500,6000,Cash on Delivery
+ORD-1619,2024-05-10,Customer_001,Visayas,Clothing,Denim Jeans,5,1800,9000,Bank Transfer
+ORD-1620,2024-06-14,Customer_077,NCR,Clothing,Polo Shirt,2,650,1300,Cash on Delivery
+ORD-1621,2024-07-02,Customer_010,Visayas,Home & Living,Wall Clock,5,800,4000,GCash
+ORD-1622,2024-03-22,Customer_054,Mindanao,Clothing,Polo Shirt,5,650,3250,Credit Card
+ORD-1623,2024-12-05,Customer_043,Visayas,Food & Bev,Coffee Blend 500g,2,380,760,Cash on Delivery
+ORD-1624,2024-09-28,Customer_061,NCR,Food & Bev,Coffee Blend 500g,5,380,1900,Credit Card
+ORD-1625,2024-11-24,Customer_079,Luzon,Food & Bev,Protein Bar Box,2,950,1900,Credit Card
+ORD-1626,2024-07-16,Customer_033,Visayas,Food & Bev,Protein Bar Box,1,950,950,Credit Card
+ORD-1627,2024-09-17,Customer_058,Mindanao,Sports,Resistance Bands,5,600,3000,Credit Card
+ORD-1628,2024-06-13,Customer_066,NCR,Food & Bev,Energy Drink,2,75,150,Credit Card
+ORD-1629,2024-04-17,Customer_028,Mindanao,Clothing,Polo Shirt,1,650,650,Credit Card
+ORD-1630,2024-12-17,Customer_020,NCR,Clothing,Cap,1,400,400,Bank Transfer
+ORD-1631,2024-02-07,Customer_007,Luzon,Food & Bev,Coffee Blend 500g,1,380,380,Cash on Delivery
+ORD-1632,2024-04-26,Customer_034,Mindanao,Sports,Yoga Mat,5,1500,7500,Bank Transfer
+ORD-1633,2024-08-09,Customer_041,NCR,Home & Living,Wall Clock,4,800,3200,Bank Transfer
+ORD-1634,2024-02-02,Customer_075,NCR,Electronics,Laptop Pro 15,5,65000,325000,Credit Card
+ORD-1635,2024-05-28,Customer_039,NCR,Food & Bev,Energy Drink,1,75,75,Cash on Delivery
+ORD-1636,2024-12-04,Customer_004,Mindanao,Home & Living,Storage Box,4,550,2200,GCash
+ORD-1637,2024-07-19,Customer_070,Visayas,Sports,Yoga Mat,2,1500,3000,GCash
+ORD-1638,2024-01-06,Customer_071,Luzon,Food & Bev,Energy Drink,3,75,225,Credit Card
+ORD-1639,2024-11-01,Customer_051,NCR,Electronics,Laptop Pro 15,5,65000,325000,Cash on Delivery
+ORD-1640,2024-07-30,Customer_066,Luzon,Clothing,Running Shoes,2,3500,7000,GCash
+ORD-1641,2024-05-09,Customer_025,NCR,Clothing,Denim Jeans,5,1800,9000,GCash
+ORD-1642,2024-08-24,Customer_071,NCR,Sports,Yoga Mat,5,1500,7500,Cash on Delivery
+ORD-1643,2024-04-11,Customer_075,Mindanao,Electronics,USB Hub,1,1200,1200,Cash on Delivery
+ORD-1644,2024-02-21,Customer_037,NCR,Food & Bev,Coffee Blend 500g,2,380,760,GCash
+ORD-1645,2024-06-17,Customer_079,Visayas,Food & Bev,Protein Bar Box,4,950,3800,GCash
+ORD-1646,2024-06-10,Customer_055,Luzon,Sports,Jump Rope,3,350,1050,Credit Card
+ORD-1647,2024-12-30,Customer_056,Visayas,Food & Bev,Coffee Blend 500g,2,380,760,Cash on Delivery
+ORD-1648,2024-08-24,Customer_058,Visayas,Clothing,Running Shoes,4,3500,14000,Cash on Delivery
+ORD-1649,2024-03-30,Customer_078,NCR,Home & Living,Wall Clock,1,800,800,Cash on Delivery
+ORD-1650,2024-11-16,Customer_010,NCR,Clothing,Denim Jeans,3,1800,5400,Credit Card
+ORD-1651,2024-10-24,Customer_075,Mindanao,Sports,Jump Rope,1,350,350,GCash
+ORD-1652,2024-10-03,Customer_061,Luzon,Electronics,USB Hub,5,1200,6000,Cash on Delivery
+ORD-1653,2024-05-28,Customer_018,Mindanao,Home & Living,Desk Lamp,5,1200,6000,Credit Card
+ORD-1654,2024-01-06,Customer_031,Luzon,Home & Living,Storage Box,5,550,2750,GCash
+ORD-1655,2024-10-16,Customer_073,Luzon,Home & Living,Desk Lamp,2,1200,2400,Bank Transfer
+ORD-1656,2024-09-06,Customer_030,NCR,Food & Bev,Coffee Blend 500g,2,380,760,Cash on Delivery
+ORD-1657,2024-12-08,Customer_027,Visayas,Food & Bev,Coffee Blend 500g,1,380,380,Bank Transfer
+ORD-1658,2024-01-21,Customer_042,NCR,Home & Living,Storage Box,1,550,550,Cash on Delivery
+ORD-1659,2024-10-18,Customer_023,Mindanao,Food & Bev,Energy Drink,5,75,375,Bank Transfer
+ORD-1660,2024-09-21,Customer_033,Mindanao,Food & Bev,Energy Drink,1,75,75,GCash
+ORD-1661,2024-06-25,Customer_063,Mindanao,Sports,Resistance Bands,3,600,1800,Credit Card
+ORD-1662,2024-03-25,Customer_030,NCR,Sports,Yoga Mat,4,1500,6000,Cash on Delivery
+ORD-1663,2024-03-21,Customer_047,NCR,Clothing,Denim Jeans,2,1800,3600,GCash
+ORD-1664,2024-09-03,Customer_062,Mindanao,Home & Living,Storage Box,1,550,550,GCash
+ORD-1665,2024-01-12,Customer_032,NCR,Sports,Yoga Mat,4,1500,6000,GCash
+ORD-1666,2024-03-09,Customer_066,NCR,Sports,Jump Rope,2,350,700,GCash
+ORD-1667,2024-04-02,Customer_067,Mindanao,Electronics,Wireless Mouse,3,850,2550,Credit Card
+ORD-1668,2024-08-17,Customer_078,Mindanao,Food & Bev,Coffee Blend 500g,2,380,760,Bank Transfer
+ORD-1669,2024-11-03,Customer_019,Luzon,Clothing,Denim Jeans,4,1800,7200,Cash on Delivery
+ORD-1670,2024-11-01,Customer_076,NCR,Clothing,Running Shoes,4,3500,14000,GCash
+ORD-1671,2024-02-25,Customer_003,Luzon,Home & Living,Storage Box,2,550,1100,Bank Transfer
+ORD-1672,2024-08-31,Customer_079,NCR,Clothing,Polo Shirt,2,650,1300,Credit Card
+ORD-1673,2024-11-04,Customer_070,NCR,Electronics,"Monitor 27""",2,18000,36000,Bank Transfer
+ORD-1674,2024-01-23,Customer_068,Mindanao,Sports,Resistance Bands,3,600,1800,GCash
+ORD-1675,2024-10-28,Customer_074,NCR,Home & Living,Storage Box,3,550,1650,Bank Transfer
+ORD-1676,2024-04-29,Customer_011,Visayas,Clothing,Running Shoes,4,3500,14000,Bank Transfer
+ORD-1677,2024-12-29,Customer_001,NCR,Food & Bev,Coffee Blend 500g,1,380,380,Credit Card
+ORD-1678,2024-12-18,Customer_041,Mindanao,Home & Living,Wall Clock,2,800,1600,Cash on Delivery
+ORD-1679,2024-11-29,Customer_075,Visayas,Electronics,Wireless Mouse,4,850,3400,Cash on Delivery
+ORD-1680,2024-07-06,Customer_079,Visayas,Sports,Resistance Bands,5,600,3000,Bank Transfer
+ORD-1681,2024-10-12,Customer_062,Luzon,Clothing,Cap,5,400,2000,Cash on Delivery
+ORD-1682,2024-05-09,Customer_040,Visayas,Sports,Jump Rope,4,350,1400,Bank Transfer
+ORD-1683,2024-08-16,Customer_021,NCR,Clothing,Polo Shirt,2,650,1300,GCash
+ORD-1684,2024-10-08,Customer_079,NCR,Sports,Resistance Bands,3,600,1800,GCash
+ORD-1685,2024-02-16,Customer_019,Mindanao,Home & Living,Wall Clock,1,800,800,Bank Transfer
+ORD-1686,2024-04-23,Customer_048,NCR,Electronics,Laptop Pro 15,3,65000,195000,Credit Card
+ORD-1687,2024-12-01,Customer_067,Visayas,Home & Living,Storage Box,5,550,2750,Credit Card
+ORD-1688,2024-01-06,Customer_026,Visayas,Clothing,Cap,4,400,1600,GCash
+ORD-1689,2024-03-27,Customer_005,Visayas,Electronics,Wireless Mouse,5,850,4250,GCash
+ORD-1690,2024-05-21,Customer_052,Visayas,Electronics,Wireless Mouse,1,850,850,Bank Transfer
+ORD-1691,2024-09-22,Customer_002,NCR,Home & Living,Wall Clock,2,800,1600,Credit Card
+ORD-1692,2024-10-25,Customer_045,Visayas,Sports,Resistance Bands,5,600,3000,Cash on Delivery
+ORD-1693,2024-07-25,Customer_074,NCR,Clothing,Denim Jeans,4,1800,7200,Cash on Delivery
+ORD-1694,2024-02-24,Customer_072,NCR,Clothing,Cap,5,400,2000,Cash on Delivery
+ORD-1695,2024-05-11,Customer_069,Visayas,Food & Bev,Coffee Blend 500g,5,380,1900,Bank Transfer
+ORD-1696,2024-05-04,Customer_044,Mindanao,Home & Living,Wall Clock,4,800,3200,Bank Transfer
+ORD-1697,2024-02-29,Customer_034,NCR,Sports,Yoga Mat,4,1500,6000,Bank Transfer
+ORD-1698,2024-07-30,Customer_046,NCR,Clothing,Denim Jeans,3,1800,5400,Cash on Delivery
+ORD-1699,2024-07-23,Customer_044,NCR,Clothing,Running Shoes,1,3500,3500,GCash
+ORD-1700,2024-04-21,Customer_074,Visayas,Home & Living,Storage Box,3,550,1650,GCash
+ORD-1701,2024-04-30,Customer_031,Visayas,Clothing,Cap,2,400,800,GCash
+ORD-1702,2024-11-12,Customer_046,Luzon,Clothing,Denim Jeans,2,1800,3600,Credit Card
+ORD-1703,2024-11-10,Customer_001,NCR,Electronics,Laptop Pro 15,4,65000,260000,Bank Transfer
+ORD-1704,2024-09-09,Customer_074,Visayas,Food & Bev,Energy Drink,3,75,225,Bank Transfer
+ORD-1705,2024-04-23,Customer_074,Luzon,Clothing,Running Shoes,4,3500,14000,Credit Card
+ORD-1706,2024-10-03,Customer_005,Visayas,Sports,Resistance Bands,4,600,2400,Bank Transfer
+ORD-1707,2024-12-23,Customer_067,Mindanao,Clothing,Cap,1,400,400,Cash on Delivery
+ORD-1708,2024-07-13,Customer_075,NCR,Electronics,Laptop Pro 15,2,65000,130000,Cash on Delivery
+ORD-1709,2024-04-05,Customer_071,Visayas,Food & Bev,Energy Drink,3,75,225,GCash
+ORD-1710,2024-06-24,Customer_047,Luzon,Food & Bev,Protein Bar Box,5,950,4750,Bank Transfer
+ORD-1711,2024-12-24,Customer_048,Visayas,Home & Living,Desk Lamp,4,1200,4800,Bank Transfer
+ORD-1712,2024-10-19,Customer_017,Luzon,Food & Bev,Protein Bar Box,2,950,1900,Credit Card
+ORD-1713,2024-08-09,Customer_049,Luzon,Food & Bev,Coffee Blend 500g,5,380,1900,GCash
+ORD-1714,2024-03-31,Customer_054,Mindanao,Clothing,Cap,1,400,400,GCash
+ORD-1715,2024-09-06,Customer_039,Visayas,Sports,Jump Rope,3,350,1050,Credit Card
+ORD-1716,2024-01-31,Customer_028,Visayas,Home & Living,Desk Lamp,2,1200,2400,Bank Transfer
+ORD-1717,2024-05-13,Customer_047,Visayas,Electronics,"Monitor 27""",3,18000,54000,Cash on Delivery
+ORD-1718,2024-03-03,Customer_045,Luzon,Food & Bev,Coffee Blend 500g,4,380,1520,GCash
+ORD-1719,2024-12-10,Customer_066,Mindanao,Food & Bev,Protein Bar Box,3,950,2850,Bank Transfer
+ORD-1720,2024-05-26,Customer_060,Luzon,Electronics,"Monitor 27""",5,18000,90000,GCash
+ORD-1721,2024-10-19,Customer_052,NCR,Food & Bev,Protein Bar Box,5,950,4750,Credit Card
+ORD-1722,2024-06-09,Customer_041,Visayas,Clothing,Running Shoes,2,3500,7000,Cash on Delivery
+ORD-1723,2024-05-18,Customer_057,Visayas,Sports,Jump Rope,4,350,1400,Bank Transfer
+ORD-1724,2024-01-12,Customer_017,Luzon,Home & Living,Desk Lamp,2,1200,2400,Cash on Delivery
+ORD-1725,2024-07-22,Customer_014,NCR,Electronics,Wireless Mouse,2,850,1700,Credit Card
+ORD-1726,2024-01-14,Customer_051,NCR,Home & Living,Wall Clock,1,800,800,Credit Card
+ORD-1727,2024-02-13,Customer_050,Visayas,Food & Bev,Energy Drink,2,75,150,GCash
+ORD-1728,2024-11-16,Customer_017,Luzon,Clothing,Running Shoes,4,3500,14000,GCash
+ORD-1729,2024-06-15,Customer_061,Mindanao,Electronics,Laptop Pro 15,3,65000,195000,Cash on Delivery
+ORD-1730,2024-12-23,Customer_070,Luzon,Sports,Resistance Bands,2,600,1200,Bank Transfer
+ORD-1731,2024-11-23,Customer_069,Visayas,Sports,Resistance Bands,5,600,3000,Cash on Delivery
+ORD-1732,2024-02-15,Customer_057,Visayas,Home & Living,Wall Clock,2,800,1600,Cash on Delivery
+ORD-1733,2024-06-04,Customer_002,NCR,Home & Living,Storage Box,2,550,1100,GCash
+ORD-1734,2024-09-30,Customer_002,Mindanao,Food & Bev,Protein Bar Box,4,950,3800,Bank Transfer
+ORD-1735,2024-05-29,Customer_077,Luzon,Food & Bev,Coffee Blend 500g,4,380,1520,Credit Card
+ORD-1736,2024-07-29,Customer_072,Mindanao,Sports,Resistance Bands,2,600,1200,Bank Transfer
+ORD-1737,2024-07-12,Customer_029,Visayas,Clothing,Denim Jeans,4,1800,7200,Credit Card
+ORD-1738,2024-09-21,Customer_079,Visayas,Home & Living,Wall Clock,2,800,1600,Cash on Delivery
+ORD-1739,2024-04-06,Customer_009,Luzon,Sports,Resistance Bands,4,600,2400,GCash
+ORD-1740,2024-11-12,Customer_058,Visayas,Food & Bev,Coffee Blend 500g,4,380,1520,Bank Transfer
+ORD-1741,2024-03-18,Customer_007,NCR,Clothing,Running Shoes,1,3500,3500,GCash
+ORD-1742,2024-03-05,Customer_057,NCR,Electronics,USB Hub,3,1200,3600,GCash
+ORD-1743,2024-09-09,Customer_028,Visayas,Electronics,Wireless Mouse,1,850,850,Bank Transfer
+ORD-1744,2024-08-25,Customer_005,Visayas,Food & Bev,Protein Bar Box,3,950,2850,Credit Card
+ORD-1745,2024-07-19,Customer_010,Mindanao,Clothing,Polo Shirt,3,650,1950,GCash
+ORD-1746,2024-01-07,Customer_016,Luzon,Clothing,Running Shoes,4,3500,14000,Bank Transfer
+ORD-1747,2024-04-11,Customer_059,NCR,Home & Living,Desk Lamp,1,1200,1200,GCash
+ORD-1748,2024-06-14,Customer_021,NCR,Home & Living,Storage Box,3,550,1650,Credit Card
+ORD-1749,2024-04-11,Customer_047,NCR,Food & Bev,Protein Bar Box,3,950,2850,GCash
+ORD-1750,2024-06-15,Customer_002,Luzon,Electronics,Wireless Mouse,4,850,3400,Cash on Delivery
+ORD-1751,2024-05-04,Customer_002,NCR,Sports,Yoga Mat,4,1500,6000,Bank Transfer
+ORD-1752,2024-02-15,Customer_032,Luzon,Sports,Yoga Mat,3,1500,4500,Bank Transfer
+ORD-1753,2024-01-31,Customer_046,Luzon,Electronics,USB Hub,1,1200,1200,Credit Card
+ORD-1754,2024-06-11,Customer_072,Visayas,Clothing,Cap,2,400,800,Bank Transfer
+ORD-1755,2024-07-02,Customer_018,Visayas,Clothing,Polo Shirt,4,650,2600,Credit Card
+ORD-1756,2024-10-13,Customer_038,Mindanao,Home & Living,Wall Clock,4,800,3200,GCash
+ORD-1757,2024-06-27,Customer_042,Mindanao,Sports,Yoga Mat,5,1500,7500,Cash on Delivery
+ORD-1758,2024-02-05,Customer_068,Luzon,Sports,Jump Rope,2,350,700,Bank Transfer
+ORD-1759,2024-07-06,Customer_059,NCR,Food & Bev,Protein Bar Box,5,950,4750,Bank Transfer
+ORD-1760,2024-07-05,Customer_080,Luzon,Clothing,Polo Shirt,5,650,3250,Cash on Delivery
+ORD-1761,2024-09-25,Customer_064,Luzon,Electronics,"Monitor 27""",2,18000,36000,Cash on Delivery
+ORD-1762,2024-02-26,Customer_013,NCR,Food & Bev,Protein Bar Box,3,950,2850,Credit Card
+ORD-1763,2024-04-13,Customer_014,Mindanao,Clothing,Denim Jeans,1,1800,1800,GCash
+ORD-1764,2024-11-24,Customer_050,Mindanao,Electronics,Laptop Pro 15,5,65000,325000,Cash on Delivery
+ORD-1765,2024-11-06,Customer_010,NCR,Electronics,USB Hub,2,1200,2400,GCash
+ORD-1766,2024-11-23,Customer_008,Visayas,Home & Living,Desk Lamp,4,1200,4800,Bank Transfer
+ORD-1767,2024-11-11,Customer_035,NCR,Food & Bev,Energy Drink,1,75,75,Credit Card
+ORD-1768,2024-09-22,Customer_013,NCR,Food & Bev,Coffee Blend 500g,2,380,760,GCash
+ORD-1769,2024-04-08,Customer_068,Luzon,Sports,Resistance Bands,2,600,1200,GCash
+ORD-1770,2024-07-31,Customer_014,Visayas,Sports,Jump Rope,5,350,1750,Bank Transfer
+ORD-1771,2024-04-02,Customer_071,Mindanao,Home & Living,Desk Lamp,2,1200,2400,Cash on Delivery
+ORD-1772,2024-06-10,Customer_071,Visayas,Clothing,Cap,3,400,1200,Cash on Delivery
+ORD-1773,2024-06-14,Customer_078,Luzon,Home & Living,Wall Clock,4,800,3200,GCash
+ORD-1774,2024-07-03,Customer_058,Mindanao,Home & Living,Wall Clock,3,800,2400,Bank Transfer
+ORD-1775,2024-11-01,Customer_003,Luzon,Electronics,Laptop Pro 15,3,65000,195000,Cash on Delivery
+ORD-1776,2024-04-19,Customer_041,NCR,Electronics,USB Hub,2,1200,2400,Cash on Delivery
+ORD-1777,2024-10-19,Customer_074,Luzon,Sports,Jump Rope,5,350,1750,Credit Card
+ORD-1778,2024-03-20,Customer_018,Visayas,Electronics,"Monitor 27""",3,18000,54000,Cash on Delivery
+ORD-1779,2024-05-11,Customer_039,NCR,Sports,Yoga Mat,2,1500,3000,Bank Transfer
+ORD-1780,2024-06-15,Customer_062,Luzon,Sports,Yoga Mat,1,1500,1500,Bank Transfer
+ORD-1781,2024-11-24,Customer_039,NCR,Sports,Yoga Mat,5,1500,7500,Bank Transfer
+ORD-1782,2024-06-27,Customer_056,Mindanao,Electronics,Laptop Pro 15,3,65000,195000,Credit Card
+ORD-1783,2024-01-28,Customer_040,NCR,Clothing,Polo Shirt,4,650,2600,Cash on Delivery
+ORD-1784,2024-06-16,Customer_065,Luzon,Sports,Jump Rope,2,350,700,GCash
+ORD-1785,2024-10-31,Customer_074,NCR,Electronics,"Monitor 27""",4,18000,72000,GCash
+ORD-1786,2024-03-16,Customer_017,Visayas,Home & Living,Storage Box,4,550,2200,Credit Card
+ORD-1787,2024-10-07,Customer_052,Visayas,Home & Living,Wall Clock,1,800,800,Credit Card
+ORD-1788,2024-12-23,Customer_017,Luzon,Home & Living,Wall Clock,4,800,3200,Bank Transfer
+ORD-1789,2024-07-21,Customer_074,Luzon,Sports,Yoga Mat,4,1500,6000,GCash
+ORD-1790,2024-08-08,Customer_042,NCR,Clothing,Polo Shirt,3,650,1950,Credit Card
+ORD-1791,2024-06-27,Customer_025,Visayas,Home & Living,Storage Box,3,550,1650,Cash on Delivery
+ORD-1792,2024-06-05,Customer_022,Visayas,Sports,Jump Rope,1,350,350,Bank Transfer
+ORD-1793,2024-01-23,Customer_030,Luzon,Sports,Yoga Mat,4,1500,6000,Cash on Delivery
+ORD-1794,2024-01-28,Customer_032,Luzon,Clothing,Polo Shirt,1,650,650,Cash on Delivery
+ORD-1795,2024-06-05,Customer_058,Mindanao,Electronics,USB Hub,1,1200,1200,Credit Card
+ORD-1796,2024-04-18,Customer_027,Visayas,Food & Bev,Coffee Blend 500g,5,380,1900,Bank Transfer
+ORD-1797,2024-12-21,Customer_003,Mindanao,Sports,Jump Rope,2,350,700,Credit Card
+ORD-1798,2024-05-25,Customer_026,Visayas,Food & Bev,Coffee Blend 500g,1,380,380,Credit Card
+ORD-1799,2024-02-04,Customer_050,Visayas,Home & Living,Wall Clock,1,800,800,Cash on Delivery
+ORD-1800,2024-11-28,Customer_050,Luzon,Electronics,Laptop Pro 15,3,65000,195000,Bank Transfer
+ORD-1801,2024-06-10,Customer_063,NCR,Sports,Jump Rope,1,350,350,GCash
+ORD-1802,2024-12-30,Customer_003,NCR,Clothing,Cap,5,400,2000,GCash
+ORD-1803,2024-09-07,Customer_051,Luzon,Sports,Resistance Bands,3,600,1800,Credit Card
+ORD-1804,2024-06-30,Customer_039,Luzon,Food & Bev,Energy Drink,3,75,225,Cash on Delivery
+ORD-1805,2024-01-16,Customer_072,Visayas,Electronics,USB Hub,4,1200,4800,GCash
+ORD-1806,2024-12-02,Customer_018,NCR,Clothing,Running Shoes,4,3500,14000,Bank Transfer
+ORD-1807,2024-11-16,Customer_030,Mindanao,Sports,Jump Rope,5,350,1750,GCash
+ORD-1808,2024-06-08,Customer_078,Visayas,Sports,Yoga Mat,4,1500,6000,Bank Transfer
+ORD-1809,2024-11-30,Customer_018,Luzon,Sports,Yoga Mat,2,1500,3000,GCash
+ORD-1810,2024-03-10,Customer_056,Luzon,Food & Bev,Energy Drink,5,75,375,GCash
+ORD-1811,2024-09-29,Customer_016,Luzon,Food & Bev,Coffee Blend 500g,5,380,1900,Cash on Delivery
+ORD-1812,2024-07-30,Customer_053,Visayas,Clothing,Polo Shirt,3,650,1950,Bank Transfer
+ORD-1813,2024-02-24,Customer_017,Luzon,Food & Bev,Coffee Blend 500g,2,380,760,Credit Card
+ORD-1814,2024-11-06,Customer_073,Luzon,Sports,Jump Rope,3,350,1050,GCash
+ORD-1815,2024-02-10,Customer_062,Luzon,Clothing,Polo Shirt,3,650,1950,Bank Transfer
+ORD-1816,2024-09-08,Customer_061,Luzon,Food & Bev,Coffee Blend 500g,4,380,1520,GCash
+ORD-1817,2024-07-28,Customer_002,Visayas,Clothing,Denim Jeans,1,1800,1800,Bank Transfer
+ORD-1818,2024-02-03,Customer_023,Mindanao,Clothing,Denim Jeans,2,1800,3600,Bank Transfer
+ORD-1819,2024-08-06,Customer_052,NCR,Food & Bev,Protein Bar Box,2,950,1900,Bank Transfer
+ORD-1820,2024-10-19,Customer_077,NCR,Food & Bev,Protein Bar Box,5,950,4750,Credit Card
+ORD-1821,2024-05-05,Customer_067,Mindanao,Home & Living,Storage Box,1,550,550,Credit Card
+ORD-1822,2024-11-18,Customer_007,Luzon,Sports,Resistance Bands,5,600,3000,Cash on Delivery
+ORD-1823,2024-05-26,Customer_060,Luzon,Home & Living,Storage Box,3,550,1650,Bank Transfer
+ORD-1824,2024-12-19,Customer_067,Luzon,Food & Bev,Energy Drink,1,75,75,Bank Transfer
+ORD-1825,2024-02-27,Customer_024,Luzon,Home & Living,Desk Lamp,5,1200,6000,Bank Transfer
+ORD-1826,2024-01-13,Customer_023,Mindanao,Home & Living,Storage Box,4,550,2200,GCash
+ORD-1827,2024-06-14,Customer_021,NCR,Home & Living,Desk Lamp,3,1200,3600,Credit Card
+ORD-1828,2024-02-13,Customer_068,Mindanao,Electronics,"Monitor 27""",3,18000,54000,GCash
+ORD-1829,2024-01-23,Customer_022,Visayas,Home & Living,Wall Clock,4,800,3200,GCash
+ORD-1830,2024-12-30,Customer_007,Mindanao,Clothing,Denim Jeans,2,1800,3600,Cash on Delivery
+ORD-1831,2024-05-27,Customer_024,NCR,Food & Bev,Energy Drink,4,75,300,GCash
+ORD-1832,2024-05-09,Customer_002,Mindanao,Clothing,Polo Shirt,5,650,3250,Bank Transfer
+ORD-1833,2024-11-07,Customer_064,Luzon,Home & Living,Wall Clock,1,800,800,GCash
+ORD-1834,2024-08-20,Customer_053,Mindanao,Sports,Jump Rope,4,350,1400,Credit Card
+ORD-1835,2024-05-05,Customer_071,Visayas,Sports,Jump Rope,1,350,350,GCash
+ORD-1836,2024-01-29,Customer_045,NCR,Electronics,Wireless Mouse,2,850,1700,GCash
+ORD-1837,2024-02-14,Customer_007,NCR,Electronics,USB Hub,3,1200,3600,Bank Transfer
+ORD-1838,2024-11-08,Customer_077,Luzon,Clothing,Denim Jeans,3,1800,5400,Bank Transfer
+ORD-1839,2024-02-17,Customer_039,Visayas,Sports,Resistance Bands,1,600,600,Cash on Delivery
+ORD-1840,2024-10-08,Customer_009,Visayas,Home & Living,Desk Lamp,4,1200,4800,Bank Transfer
+ORD-1841,2024-06-17,Customer_068,Mindanao,Clothing,Polo Shirt,3,650,1950,GCash
+ORD-1842,2024-10-19,Customer_068,NCR,Clothing,Polo Shirt,1,650,650,Bank Transfer
+ORD-1843,2024-08-06,Customer_078,Visayas,Sports,Jump Rope,3,350,1050,Cash on Delivery
+ORD-1844,2024-06-30,Customer_017,Mindanao,Sports,Jump Rope,5,350,1750,Bank Transfer
+ORD-1845,2024-04-29,Customer_038,Luzon,Home & Living,Desk Lamp,5,1200,6000,Credit Card
+ORD-1846,2024-11-16,Customer_016,Luzon,Electronics,Laptop Pro 15,4,65000,260000,Bank Transfer
+ORD-1847,2024-06-28,Customer_072,Luzon,Home & Living,Desk Lamp,3,1200,3600,Credit Card
+ORD-1848,2024-02-04,Customer_040,Visayas,Clothing,Running Shoes,3,3500,10500,Cash on Delivery
+ORD-1849,2024-06-23,Customer_051,NCR,Electronics,Laptop Pro 15,3,65000,195000,GCash
+ORD-1850,2024-12-10,Customer_062,Mindanao,Clothing,Running Shoes,3,3500,10500,Credit Card
+ORD-1851,2024-11-17,Customer_059,Visayas,Clothing,Cap,2,400,800,Bank Transfer
+ORD-1852,2024-09-23,Customer_039,Visayas,Home & Living,Wall Clock,1,800,800,Credit Card
+ORD-1853,2024-02-03,Customer_020,Visayas,Clothing,Running Shoes,3,3500,10500,Credit Card
+ORD-1854,2024-03-25,Customer_074,Mindanao,Food & Bev,Protein Bar Box,5,950,4750,GCash
+ORD-1855,2024-12-27,Customer_041,NCR,Sports,Yoga Mat,3,1500,4500,Cash on Delivery
+ORD-1856,2024-05-01,Customer_048,Mindanao,Home & Living,Desk Lamp,4,1200,4800,Cash on Delivery
+ORD-1857,2024-02-27,Customer_048,NCR,Clothing,Running Shoes,2,3500,7000,GCash
+ORD-1858,2024-01-13,Customer_062,Luzon,Electronics,"Monitor 27""",5,18000,90000,GCash
+ORD-1859,2024-06-07,Customer_042,Luzon,Food & Bev,Protein Bar Box,5,950,4750,Credit Card
+ORD-1860,2024-04-15,Customer_005,Mindanao,Sports,Jump Rope,2,350,700,Bank Transfer
+ORD-1861,2024-06-08,Customer_006,NCR,Sports,Yoga Mat,1,1500,1500,Cash on Delivery
+ORD-1862,2024-09-23,Customer_040,NCR,Home & Living,Desk Lamp,1,1200,1200,Cash on Delivery
+ORD-1863,2024-04-08,Customer_037,Visayas,Clothing,Running Shoes,2,3500,7000,Cash on Delivery
+ORD-1864,2024-05-19,Customer_020,Luzon,Home & Living,Wall Clock,1,800,800,Cash on Delivery
+ORD-1865,2024-10-13,Customer_066,NCR,Electronics,Laptop Pro 15,5,65000,325000,GCash
+ORD-1866,2024-06-12,Customer_035,Luzon,Sports,Resistance Bands,5,600,3000,Cash on Delivery
+ORD-1867,2024-02-06,Customer_040,Visayas,Sports,Yoga Mat,2,1500,3000,Bank Transfer
+ORD-1868,2024-08-29,Customer_007,NCR,Electronics,Wireless Mouse,1,850,850,Bank Transfer
+ORD-1869,2024-07-19,Customer_023,Mindanao,Electronics,Laptop Pro 15,4,65000,260000,Cash on Delivery
+ORD-1870,2024-12-09,Customer_069,NCR,Food & Bev,Protein Bar Box,2,950,1900,Bank Transfer
+ORD-1871,2024-12-23,Customer_060,NCR,Sports,Yoga Mat,1,1500,1500,Bank Transfer
+ORD-1872,2024-08-28,Customer_030,Luzon,Food & Bev,Energy Drink,4,75,300,GCash
+ORD-1873,2024-07-19,Customer_024,Visayas,Sports,Resistance Bands,3,600,1800,Cash on Delivery
+ORD-1874,2024-02-03,Customer_061,NCR,Home & Living,Storage Box,1,550,550,Cash on Delivery
+ORD-1875,2024-05-24,Customer_045,Luzon,Home & Living,Storage Box,2,550,1100,Credit Card
+ORD-1876,2024-06-15,Customer_072,NCR,Home & Living,Wall Clock,1,800,800,Cash on Delivery
+ORD-1877,2024-10-29,Customer_053,Luzon,Sports,Resistance Bands,4,600,2400,GCash
+ORD-1878,2024-07-15,Customer_009,Visayas,Sports,Yoga Mat,4,1500,6000,GCash
+ORD-1879,2024-10-17,Customer_044,Luzon,Sports,Resistance Bands,4,600,2400,GCash
+ORD-1880,2024-10-30,Customer_077,Mindanao,Electronics,"Monitor 27""",1,18000,18000,Cash on Delivery
+ORD-1881,2024-03-31,Customer_040,Mindanao,Sports,Yoga Mat,4,1500,6000,Credit Card
+ORD-1882,2024-07-13,Customer_042,Mindanao,Sports,Yoga Mat,5,1500,7500,Credit Card
+ORD-1883,2024-10-24,Customer_001,Luzon,Electronics,Wireless Mouse,2,850,1700,GCash
+ORD-1884,2024-07-18,Customer_079,Mindanao,Home & Living,Wall Clock,3,800,2400,GCash
+ORD-1885,2024-10-18,Customer_039,Mindanao,Clothing,Running Shoes,3,3500,10500,Cash on Delivery
+ORD-1886,2024-09-18,Customer_052,Luzon,Electronics,Laptop Pro 15,5,65000,325000,Cash on Delivery
+ORD-1887,2024-01-28,Customer_001,Visayas,Electronics,USB Hub,5,1200,6000,Credit Card
+ORD-1888,2024-08-09,Customer_076,Mindanao,Food & Bev,Coffee Blend 500g,2,380,760,Cash on Delivery
+ORD-1889,2024-08-10,Customer_070,Luzon,Home & Living,Storage Box,4,550,2200,GCash
+ORD-1890,2024-10-11,Customer_050,Visayas,Home & Living,Desk Lamp,2,1200,2400,Bank Transfer
+ORD-1891,2024-03-09,Customer_002,NCR,Clothing,Running Shoes,2,3500,7000,Credit Card
+ORD-1892,2024-03-10,Customer_011,Luzon,Clothing,Cap,4,400,1600,Bank Transfer
+ORD-1893,2024-08-05,Customer_080,Luzon,Home & Living,Wall Clock,5,800,4000,Bank Transfer
+ORD-1894,2024-08-18,Customer_050,Visayas,Sports,Resistance Bands,5,600,3000,GCash
+ORD-1895,2024-01-04,Customer_074,Mindanao,Clothing,Cap,5,400,2000,GCash
+ORD-1896,2024-10-06,Customer_074,Visayas,Sports,Resistance Bands,4,600,2400,Credit Card
+ORD-1897,2024-02-27,Customer_075,Mindanao,Electronics,"Monitor 27""",3,18000,54000,Credit Card
+ORD-1898,2024-09-21,Customer_011,NCR,Clothing,Running Shoes,4,3500,14000,GCash
+ORD-1899,2024-12-16,Customer_070,Visayas,Home & Living,Wall Clock,1,800,800,Credit Card
+ORD-1900,2024-08-28,Customer_059,Mindanao,Food & Bev,Energy Drink,1,75,75,Cash on Delivery
+ORD-1901,2024-05-28,Customer_022,NCR,Home & Living,Storage Box,3,550,1650,Cash on Delivery
+ORD-1902,2024-11-18,Customer_061,Luzon,Sports,Resistance Bands,1,600,600,Credit Card
+ORD-1903,2024-01-14,Customer_037,Mindanao,Food & Bev,Energy Drink,5,75,375,Credit Card
+ORD-1904,2024-05-09,Customer_017,Visayas,Clothing,Polo Shirt,3,650,1950,Cash on Delivery
+ORD-1905,2024-11-05,Customer_023,Luzon,Food & Bev,Coffee Blend 500g,1,380,380,Bank Transfer
+ORD-1906,2024-12-24,Customer_031,Mindanao,Food & Bev,Coffee Blend 500g,3,380,1140,GCash
+ORD-1907,2024-02-13,Customer_019,Luzon,Sports,Yoga Mat,3,1500,4500,Bank Transfer
+ORD-1908,2024-12-04,Customer_057,Luzon,Home & Living,Storage Box,2,550,1100,GCash
+ORD-1909,2024-01-28,Customer_034,NCR,Sports,Jump Rope,3,350,1050,Credit Card
+ORD-1910,2024-08-31,Customer_039,Mindanao,Clothing,Cap,4,400,1600,GCash
+ORD-1911,2024-08-30,Customer_034,Luzon,Home & Living,Wall Clock,4,800,3200,Bank Transfer
+ORD-1912,2024-07-14,Customer_041,NCR,Electronics,USB Hub,4,1200,4800,Credit Card
+ORD-1913,2024-08-09,Customer_079,Visayas,Sports,Jump Rope,3,350,1050,Cash on Delivery
+ORD-1914,2024-05-10,Customer_075,Mindanao,Food & Bev,Protein Bar Box,1,950,950,Bank Transfer
+ORD-1915,2024-06-21,Customer_024,Visayas,Clothing,Denim Jeans,5,1800,9000,Credit Card
+ORD-1916,2024-07-29,Customer_013,NCR,Electronics,Laptop Pro 15,1,65000,65000,Bank Transfer
+ORD-1917,2024-05-08,Customer_025,NCR,Food & Bev,Coffee Blend 500g,3,380,1140,Credit Card
+ORD-1918,2024-10-31,Customer_028,NCR,Sports,Yoga Mat,1,1500,1500,Credit Card
+ORD-1919,2024-12-02,Customer_073,Luzon,Electronics,Wireless Mouse,4,850,3400,Credit Card
+ORD-1920,2024-08-27,Customer_010,Mindanao,Clothing,Running Shoes,3,3500,10500,Cash on Delivery
+ORD-1921,2024-05-11,Customer_021,NCR,Home & Living,Wall Clock,3,800,2400,Cash on Delivery
+ORD-1922,2024-06-19,Customer_008,Visayas,Electronics,"Monitor 27""",4,18000,72000,Cash on Delivery
+ORD-1923,2024-09-08,Customer_026,Mindanao,Clothing,Cap,1,400,400,GCash
+ORD-1924,2024-10-03,Customer_056,Luzon,Home & Living,Desk Lamp,2,1200,2400,Credit Card
+ORD-1925,2024-02-22,Customer_005,NCR,Home & Living,Wall Clock,3,800,2400,Credit Card
+ORD-1926,2024-08-16,Customer_003,Mindanao,Sports,Jump Rope,3,350,1050,GCash
+ORD-1927,2024-05-16,Customer_020,Visayas,Electronics,Laptop Pro 15,4,65000,260000,Bank Transfer
+ORD-1928,2024-12-28,Customer_063,Mindanao,Sports,Yoga Mat,5,1500,7500,Bank Transfer
+ORD-1929,2024-10-03,Customer_029,NCR,Home & Living,Wall Clock,1,800,800,Bank Transfer
+ORD-1930,2024-10-01,Customer_046,Visayas,Home & Living,Desk Lamp,5,1200,6000,Cash on Delivery
+ORD-1931,2024-07-06,Customer_069,Visayas,Home & Living,Desk Lamp,1,1200,1200,Credit Card
+ORD-1932,2024-03-31,Customer_071,NCR,Home & Living,Storage Box,2,550,1100,Bank Transfer
+ORD-1933,2024-02-24,Customer_046,Mindanao,Clothing,Running Shoes,4,3500,14000,Credit Card
+ORD-1934,2024-03-12,Customer_005,Luzon,Home & Living,Wall Clock,2,800,1600,Credit Card
+ORD-1935,2024-07-18,Customer_009,Visayas,Sports,Yoga Mat,4,1500,6000,Bank Transfer
+ORD-1936,2024-01-19,Customer_044,NCR,Sports,Resistance Bands,1,600,600,Cash on Delivery
+ORD-1937,2024-04-18,Customer_067,Mindanao,Electronics,"Monitor 27""",1,18000,18000,GCash
+ORD-1938,2024-01-19,Customer_019,Mindanao,Sports,Yoga Mat,1,1500,1500,Credit Card
+ORD-1939,2024-05-04,Customer_017,NCR,Home & Living,Wall Clock,1,800,800,GCash
+ORD-1940,2024-08-21,Customer_079,Luzon,Electronics,USB Hub,1,1200,1200,Credit Card
+ORD-1941,2024-10-31,Customer_079,Luzon,Electronics,Laptop Pro 15,4,65000,260000,Credit Card
+ORD-1942,2024-12-13,Customer_052,Visayas,Clothing,Cap,3,400,1200,Credit Card
+ORD-1943,2024-06-13,Customer_028,NCR,Sports,Jump Rope,2,350,700,GCash
+ORD-1944,2024-05-20,Customer_019,Mindanao,Food & Bev,Coffee Blend 500g,1,380,380,GCash
+ORD-1945,2024-08-12,Customer_032,NCR,Food & Bev,Energy Drink,2,75,150,GCash
+ORD-1946,2024-01-09,Customer_063,NCR,Electronics,"Monitor 27""",2,18000,36000,Credit Card
+ORD-1947,2024-12-27,Customer_076,Visayas,Electronics,Wireless Mouse,1,850,850,Bank Transfer
+ORD-1948,2024-04-15,Customer_019,Visayas,Home & Living,Wall Clock,2,800,1600,Bank Transfer
+ORD-1949,2024-11-08,Customer_005,Luzon,Home & Living,Desk Lamp,2,1200,2400,Bank Transfer
+ORD-1950,2024-06-27,Customer_054,NCR,Sports,Yoga Mat,3,1500,4500,GCash
+ORD-1951,2024-02-18,Customer_080,Visayas,Clothing,Polo Shirt,5,650,3250,GCash
+ORD-1952,2024-05-21,Customer_007,Luzon,Home & Living,Wall Clock,2,800,1600,Credit Card
+ORD-1953,2024-03-31,Customer_021,NCR,Clothing,Cap,4,400,1600,Credit Card
+ORD-1954,2024-08-10,Customer_033,Visayas,Food & Bev,Protein Bar Box,2,950,1900,Bank Transfer
+ORD-1955,2024-10-02,Customer_023,Luzon,Electronics,Laptop Pro 15,1,65000,65000,Credit Card
+ORD-1956,2024-02-06,Customer_031,Mindanao,Home & Living,Wall Clock,1,800,800,Cash on Delivery
+ORD-1957,2024-04-27,Customer_015,Visayas,Home & Living,Desk Lamp,3,1200,3600,GCash
+ORD-1958,2024-04-12,Customer_049,Luzon,Electronics,Wireless Mouse,4,850,3400,Credit Card
+ORD-1959,2024-01-28,Customer_056,Luzon,Home & Living,Wall Clock,4,800,3200,GCash
+ORD-1960,2024-07-17,Customer_048,Luzon,Sports,Resistance Bands,2,600,1200,Bank Transfer
+ORD-1961,2024-04-13,Customer_043,Luzon,Clothing,Running Shoes,3,3500,10500,Credit Card
+ORD-1962,2024-03-10,Customer_015,Mindanao,Sports,Yoga Mat,3,1500,4500,Bank Transfer
+ORD-1963,2024-04-22,Customer_038,Luzon,Home & Living,Desk Lamp,3,1200,3600,GCash
+ORD-1964,2024-02-14,Customer_053,Mindanao,Sports,Jump Rope,2,350,700,GCash
+ORD-1965,2024-05-22,Customer_002,Mindanao,Sports,Resistance Bands,4,600,2400,GCash
+ORD-1966,2024-10-23,Customer_029,Luzon,Clothing,Running Shoes,4,3500,14000,Credit Card
+ORD-1967,2024-08-28,Customer_065,NCR,Home & Living,Desk Lamp,1,1200,1200,Bank Transfer
+ORD-1968,2024-12-22,Customer_013,Mindanao,Sports,Resistance Bands,4,600,2400,Bank Transfer
+ORD-1969,2024-01-07,Customer_053,Luzon,Clothing,Polo Shirt,5,650,3250,GCash
+ORD-1970,2024-11-27,Customer_012,NCR,Food & Bev,Protein Bar Box,2,950,1900,Bank Transfer
+ORD-1971,2024-10-19,Customer_075,NCR,Food & Bev,Coffee Blend 500g,4,380,1520,Bank Transfer
+ORD-1972,2024-04-04,Customer_048,Mindanao,Home & Living,Desk Lamp,4,1200,4800,Credit Card
+ORD-1973,2024-09-28,Customer_005,Visayas,Electronics,"Monitor 27""",3,18000,54000,Bank Transfer
+ORD-1974,2024-10-04,Customer_074,Luzon,Food & Bev,Energy Drink,5,75,375,Credit Card
+ORD-1975,2024-09-20,Customer_047,NCR,Sports,Resistance Bands,1,600,600,Credit Card
+ORD-1976,2024-11-12,Customer_006,Visayas,Home & Living,Storage Box,4,550,2200,Cash on Delivery
+ORD-1977,2024-12-29,Customer_027,Luzon,Clothing,Polo Shirt,5,650,3250,Cash on Delivery
+ORD-1978,2024-10-24,Customer_027,Luzon,Clothing,Polo Shirt,4,650,2600,Cash on Delivery
+ORD-1979,2024-12-14,Customer_055,Visayas,Food & Bev,Protein Bar Box,5,950,4750,Credit Card
+ORD-1980,2024-08-19,Customer_063,NCR,Electronics,USB Hub,3,1200,3600,Bank Transfer
+ORD-1981,2024-05-29,Customer_058,Visayas,Sports,Jump Rope,5,350,1750,Credit Card
+ORD-1982,2024-02-11,Customer_051,Luzon,Clothing,Cap,1,400,400,Cash on Delivery
+ORD-1983,2024-05-21,Customer_015,Luzon,Electronics,Laptop Pro 15,2,65000,130000,Bank Transfer
+ORD-1984,2024-11-17,Customer_003,Visayas,Clothing,Denim Jeans,5,1800,9000,Bank Transfer
+ORD-1985,2024-06-26,Customer_054,Mindanao,Sports,Yoga Mat,4,1500,6000,Credit Card
+ORD-1986,2024-01-12,Customer_030,Visayas,Food & Bev,Coffee Blend 500g,1,380,380,Bank Transfer
+ORD-1987,2024-09-05,Customer_076,Mindanao,Sports,Resistance Bands,3,600,1800,Bank Transfer
+ORD-1988,2024-06-05,Customer_022,Visayas,Food & Bev,Energy Drink,2,75,150,GCash
+ORD-1989,2024-01-25,Customer_019,Visayas,Home & Living,Storage Box,3,550,1650,Cash on Delivery
+ORD-1990,2024-03-23,Customer_069,Visayas,Home & Living,Desk Lamp,5,1200,6000,GCash
+ORD-1991,2024-05-01,Customer_015,NCR,Clothing,Denim Jeans,2,1800,3600,Cash on Delivery
+ORD-1992,2024-05-13,Customer_048,Luzon,Sports,Yoga Mat,4,1500,6000,GCash
+ORD-1993,2024-12-06,Customer_041,Visayas,Sports,Jump Rope,1,350,350,GCash
+ORD-1994,2024-03-24,Customer_069,Visayas,Food & Bev,Protein Bar Box,5,950,4750,Credit Card
+ORD-1995,2024-03-15,Customer_059,Visayas,Electronics,"Monitor 27""",4,18000,72000,GCash
+ORD-1996,2024-08-30,Customer_038,Luzon,Electronics,USB Hub,3,1200,3600,Bank Transfer
+ORD-1997,2024-09-02,Customer_006,Luzon,Food & Bev,Energy Drink,1,75,75,Credit Card
+ORD-1998,2024-11-12,Customer_029,Mindanao,Food & Bev,Coffee Blend 500g,4,380,1520,Cash on Delivery
+ORD-1999,2024-11-07,Customer_025,Luzon,Electronics,USB Hub,1,1200,1200,Cash on Delivery
+ORD-2000,2024-10-02,Customer_058,NCR,Clothing,Polo Shirt,1,650,650,Bank Transfer
